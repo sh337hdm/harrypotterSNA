@@ -11,22 +11,28 @@ nodelist.csv
 
 **from**
 
-ID des Knoten Schauspieler
+ID der initiierenden Knoten der Schauspieler, Film, Produktionsfirma, Regisseur, Kooperation, Engagement
 
 **to**
 
-ID des Knoten Film
+ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Kooperation, Engagement 
 
 **relation**
 
-1=Hauptrolle
+1=Darsteller
 
-2=Nebenrolle
+2=Produzent
+
+3=geschäftliche Beziehung (Werbekoop)
+
+4=freiwillige Beziehungen (Engagement)
+
+(5= Angestellter)
 
 # NODE-Attribute
 **id**
 
-ID aus der Edgelist
+IDs aus der Edgelist (from & to Spalte)
 
 **name**
 
@@ -36,7 +42,7 @@ Voller Name/Bezeichnung
 
 1=Person 
 
-2=Film/Serie
+2=keine Person 
 
 **age**
 
@@ -46,16 +52,4 @@ Alter des Schauspielers bei Erscheinung des Films
 
 Erscheinungsjahr des Films
 
-**genre**
-
-1=Action
-
-2=Fantasy
-
-3=Horror
-
-4=Thriller
-
-5=Romance
-
-(Studio)?
+(**genre**)
