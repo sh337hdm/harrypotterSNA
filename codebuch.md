@@ -1,32 +1,61 @@
 # Codebuch
 Wie haben sich die Karrieren der Harry Potter Schauspieler seit Start der Filmreihe entwickelt?
 
-##Edgelist
+## Inhalt 
 
-from
+edgelist.csv 
+
+nodelist.csv
+
+# EDGE-Attribute
+
+**from**
+
 ID des Knoten Schauspieler
-to
+
+**to**
+
 ID des Knoten Film
-relation
+
+**relation**
+
 1=Hauptrolle
+
 2=Nebenrolle
 
-Nodelist
-id
+# NODE-Attribute
+**id**
+
 ID aus der Edgelist
-name
+
+**name**
+
 Voller Name/Bezeichnung
-type
+
+**type**
+
 1=Person 
+
 2=Film/Serie
-age
+
+**age**
+
 Alter des Schauspielers bei Erscheinung des Films
-year
+
+**year**
+
 Erscheinungsjahr des Films
-genre
+
+**genre**
+
 1=Action
+
 2=Fantasy
+
 3=Horror
+
 4=Thriller
+
 5=Romance
+
 (Studio)?
