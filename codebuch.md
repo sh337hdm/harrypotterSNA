@@ -52,8 +52,16 @@ Alter des Schauspielers bei Erscheinung des Films
 
 Erscheinungsjahr des Films
 
+**sector**
+
+1=Schauspieler
+
+2=Kinofilm
+
+3= Fernsehfilm
+
 **genre**
 
-**produktionsfirma**
 
-**regisseur**
+
+
