@@ -23,9 +23,11 @@ ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Koope
 
 2=Produzent
 
-3=Werbepartner
+3=Regie
 
-4=Engagement
+4=Werbepartner
+
+5=Engagement
 
 # NODE-Attribute
 **id**
