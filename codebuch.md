@@ -52,4 +52,8 @@ Alter des Schauspielers bei Erscheinung des Films
 
 Erscheinungsjahr des Films
 
-(**genre**)
+**genre**
+
+**produktionsfirma**
+
+**regisseur**
