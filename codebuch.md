@@ -23,11 +23,9 @@ ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Koope
 
 2=Produzent
 
-3=geschäftliche Beziehung (Werbekoop)
+3=geschäftliche Beziehung (Werbekoop, Filmauftrag)
 
 4=freiwillige Beziehungen (Engagement)
-
-(5= Angestellter)
 
 # NODE-Attribute
 **id**
