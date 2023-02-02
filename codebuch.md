@@ -54,14 +54,21 @@ Erscheinungsjahr des Films
 
 **sector**
 
-1=Schauspieler
+1=Film
 
-2=Kinofilm
+2=Serie
 
-3= Fernsehfilm
+3=Werbung
 
-**genre**
+4=Theater
 
+5=Musik
+
+6=Sonstiges
+
+(**genre**)
+
+Das erste bei Rotten Tomatoes
 
 
 
