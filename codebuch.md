@@ -68,6 +68,8 @@ Erscheinungsjahr des Films
 
 6=Sonstiges
 
+(macht es Sinn hier für die Personen noch 2 Sektoren hin wie Schauspieler und Regie/Produktion?) Weil sonst kann man alle Personen gar nicht einordnen
+
 (**genre**)
 
 Das erste bei Rotten Tomatoes
