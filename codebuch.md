@@ -29,6 +29,8 @@ ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Koope
 
 5=Engagement
 
+6=Synchronsprecher
+
 # NODE-Attribute
 **id**
 
