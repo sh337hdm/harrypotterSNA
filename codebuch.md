@@ -68,11 +68,43 @@ Erscheinungsjahr des Films
 
 6=Sonstiges
 
+7=Darsteller
+
+8=Regisseur
+
+9=Produktion
+
 (macht es Sinn hier für die Personen noch 2 Sektoren hin wie Schauspieler und Regie/Produktion?) Weil sonst kann man alle Personen gar nicht einordnen
 
-(**genre**)
+**genre**
 
-Das erste bei Rotten Tomatoes
+1=Action
 
+2=Drama
+
+3=Thriller
+
+4=Horror
+
+5=Fantasy
+
+6=Komödie
+
+7=Dokumentation
+
+8=Animation
+
+9=Sonstiges
+
+**land**
+
+Land aus dem Produktionsfirma kommt oder Herkunft des Films/Serie
+
+Beispiel Abkürzung:
+DE
+UK
+US
+FR
+SK
 
 
