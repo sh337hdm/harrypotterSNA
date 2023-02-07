@@ -9,8 +9,8 @@ tf,dvl,1
 tf,ftr,1
 tf,is,1
 tf,deb,1
-tf,fc,1
-tf,fc,1
+tf,fc1,1
+tf,fc2,1
 tf,mitf,1
 tf,dbpp,6
 tf,ats,1
@@ -42,7 +42,8 @@ sfp,dvl,2
 ftrp,ftr,2
 ld,is,2
 dj,deb,2
-mom,fc,2
+mom,fc1,2
+mom,fc2,2
 tnt,mitf,2
 afc,ats,2
 ld,auf,2
