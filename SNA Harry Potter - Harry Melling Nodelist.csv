@@ -1,0 +1,59 @@
+id,name,year,type,Regie,age,Produktionsfirma,sector,genre,land
+fandc,Friends & Crocodiles,2005,2,Stephen Poliakoff,16,BBC One,1,2,UK
+hpatootp,Harry Potter and the Order of the Phoenix,2007,2,Matt Birch,18,Electronic Arts,6,9,US
+merlin,Merlin ,2010,2,Ashley Way,21,BBC One,2,2,UK
+justw,Just William,2010,2,Paul Seed,21,BBC One ,2,9,UK
+garrowsl,Garrows Law,2011,2,Bryn Higgins,22,Twenty Twenty,2,2,UK
+themusk,The Musketeers,2016,2,Susan Tully,27,BBC One,2,2,UK
+thelost,The Lost City of Z ,2016,2,James Gray,27,Paramount Pictures,1,2,US
+edison,Edison,2017,2,Alfonso Gomez-Rejon,28,The Weinstein Company,1,2,US
+theballad,The Ballad of Buster Scruggs,2018,2,Ethan Coen,29,Mike Zoss Productions,1,2,US
+theballadjc,The Ballad of Buster Scruggs,2018,2,Joel Coen,29,Mike Zoss Productions,1,2,US
+trautmann,Trautmann,2018,2,Marcus H. Rosenmüller,29,Lieblingsfilm,1,2,UK
+wftb,Waiting for the Barbarians,2019,2,Ciro Guerra,30,Constantin Film,1,2,US
+twotw,The War of the Worlds,2019,2,Craig Viveiros,30,Mammoth Screen,2,1,UK
+hdm,His Dark Materials,2019,2,Otto Bathurst,30,BBC One,2,5,UK
+theold,The Old Guard ,2020,2,Gina Prince-Bythewood,31,Skydance,1,1,US
+thedevil,The Devil All the Time,2020,2,Antonio Campos,31,Bronx Moving Co.,1,3,US
+syp,Say Your Prayers,2020,2,Harry Michell,31,Gravitas Ventures,1,6,UK
+tqg,The Queen´s Gambit,2020,2,Scott Frank ,31,Netflix,2,2,US
+ttom,The Tragedy of Macbeth,2021,2,Joel Coen,32,A24,1,2,US
+pbp,Please Baby Please ,2022,2,Amanda Kramer,33,Rivulet Media,1,9,US
+tpbe,The Pale Blue Eye,2022,2,Scott Cooper,33,Cross Creek Pictures,1,3,US
+hm,Harry Melling,,,,,,,,
+stephenpo,Stephen Poliakoff,,,,,,,,
+mb,Matt Birch,,,,,,,,
+ashleyw,Ashley Way,,,,,,,,
+pauls,Paul Seed,,,,,,,,
+brynh,Bryn Higgins,,,,,,,,
+susant,Susan Tully,,,,,,,,
+jamesg,James Gray,,,,,,,,
+alfonsogr,Alfonso Gomez-Rejon,,,,,,,,
+ethcoen,Ethan Coen,,,,,,,,
+joelcoen,Joel Coen,,,,,,,,
+marcushr,Marcus H. Rosenmüller,,,,,,,,
+cirog,Ciro Guerra,,,,,,,,
+craigv,Craig Viveiros,,,,,,,,
+ottob,Otto Bathurst,,,,,,,,
+ginapb,Gina Prince-Bythewood,,,,,,,,
+antonioc,Antonio Campos,,,,,,,,
+harrym,Harry Michell,,,,,,,,
+scottf,Scott Frank ,,,,,,,,
+amandak,Amanda Kramer,,,,,,,,
+scottc,Scott Cooper,,,,,,,,
+bbcone,BBC One,,,,,,,,
+ea,Electronic Arts,,,,,,,,
+twentytwenty,Twenty Twenty,,,,,,,,
+paramount,Paramount Pictures,,,,,,,,
+weinstein,The Weinstein Company,,,,,,,,
+mikezoss,Mike Zoss Productions,,,,,,,,
+lieblingsf,Lieblingsfilm,,,,,,,,
+constantinf,Constantin Film,,,,,,,,
+mammoth,Mammoth Screen,,,,,,,,
+skydance,Skydance,,,,,,,,
+bronz,Bronx Moving Co.,,,,,,,,
+gravitas,Gravitas Ventures,,,,,,,,
+netflix,Netflix,,,,,,,,
+a24,A24,,,,,,,,
+rivulet,Rivulet Media,,,,,,,,
+ccpictures,Cross Creek Pictures,,,,,,,,
