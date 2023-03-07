@@ -2,7 +2,7 @@ id,name,type,age,year,sector,company,regisseur,genre,country
 gaol,Gary Oldman,1,,,8,,,,
 noba,Nobodys Baby,2,43,2001,1,Nu Image,David Seltzer,6,US
 hannibal,Hannibal,2,43,2001,1,Metro Goldwyn Mayer,Ridley Scott,4,US
-friends,Friends,2,43,2001,2,Warner Bros ,James Burrows,6,US
+friends,Friends,2,43,2001,2,Warner Bros,James Burrows,6,US
 in60,Interstate 60,2,44,2002,1,Seven Arts Entertainment,Bob Gale,6,UK
 grthbu,Greg the Bunny,2,44,2002,2,20th Century Fox,Carlton Cuse,6,US
 bethde,Beat the Devil,2,44,2002,1,Romulus Films,Tony Scott,1,UK
@@ -15,7 +15,7 @@ babe,Batman Begins,2,47,2005,1,Warner Bros,Christopher Nolan,1,US
 defi,Dead Fish,2,47,2005,1,,Charley Standler,1,
 badijabe,Backwoods Die Jagd beginnt,2,48,2006,1,Filmax International,Koldo Serra,3,ESP
 thleofspanebe,The Legend of Spyro A New Beginning,2,48,2006,6,Vivendi Universal Games,,9,US
-thleofspthetni1,The Legend of Spyro The Eternal Night ,2,49,2007,2,Krome Studios,,9,AUS
+thleofspthetni1,The Legend of Spyro The Eternal Night,2,49,2007,2,Krome Studios,,9,AUS
 theleofspthetni2,The Legend of Spyro The Eternal Night,2,49,2007,6,Vivendi Universal Games,,9,US
 thdani,The Dark Night,2,50,2008,1,Warner Bros ,Christopher Nolan,1,US
 thleofspdaofthdr,The Legend of Spyro Dawn of the Dragon ,2,50,2008,6,Vivendi Universal Games,,9,US
@@ -29,11 +29,11 @@ pl51,Planet 51,2,51,2009,1,Skydance Animation Madrid,Jorge Blanco,6,ESP
 thboofel,The Book of Eli,2,52,2010,1,Alcon Entertainment,Albert Hughes,1,US
 caofdublop,Call of Duty Black Ops,2,52,2010,6,Infinity Ward Treyarch Sledgehammer Games,,9,US
 bethca,Behind the Carol,2,52,2010,1,,Robert Zemeckis,9,
-reriho,Red Riding Hood ,2,53,2011,1,Warner Bros ,Catherine Hardwicke,4,US
-kufupa,Kung Fu Panda ,2,53,2011,1,Dream Works ,Jennifer Yuh Nelson,8,US
+reriho,Red Riding Hood ,2,53,2011,1,Warner Bros,Catherine Hardwicke,4,US
+kufupa,Kung Fu Panda ,2,53,2011,1,Dream Works,Jennifer Yuh Nelson,8,US
 titasosp,Tinker Tailor Soldier Spy,2,54,2012,1,Studio Canal,Tomas Alfredson,9,FRA
 lawless,Lawless,2,54,2012,1,Annapurna Pictures,John Hillcoat,2,US
-thdaniri,The Dark Night Rises,2,54,2012,1,Warner Bros ,Christopher Nolan,1,US
+thdaniri,The Dark Night Rises,2,54,2012,1,Warner Bros,Christopher Nolan,1,US
 guangi,Guns and Girls,2,54,2012,1,Freefall Films,Michael Winnick,3,UK
 dabothneda,David Bowie The Next Day,2,55,2013,5,Columbia Records,Floria Sigismondi,9,US
 paranoia,Paranoia,2,55,2013,1,Global Road Entertainment,Robert Luketic,3,US
@@ -60,11 +60,11 @@ mank,Mank,2,62,2020,1,Netflix,David Fincher,6,US
 chrisis,Chrisis,2,63,2021,1,Bideford Productions,Nicholas Jarecki,3,UK
 kibo2,Killers Bodyguard 2,2,63,2021,1,Nu Image,Patrick Hughes,6,US
 slho,Slow Horses,2,64,2022,1,See-Saw Films,,3,UK
-jawhun,Jack White Unstaged ,2,54,2012,5,American Express,Gary Oldman,9,US
+jawhun,Jack White Unstaged,2,54,2012,5,American Express,Gary Oldman,9,US
 thpabo,The Patience Bossa,2,46,2004,5,,Gary Oldman,9,
 nuim,Nu Image,,,,9,,,,
 mgm,Metro Goldwyn Mayer,,,,9,,,,
-wabr,Warner Bros ,,,,9,,,,
+wabr,Warner Bros,,,,9,,,,
 searen,Seven Arts Entertainment,,,,9,,,,
 20cefo,20th Century Fox,,,,9,,,,
 rofi,Romulus Films,,,,9,,,,
