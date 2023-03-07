@@ -37,9 +37,11 @@ ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Koope
 
 IDs aus der Edgelist (from & to Spalte)
 
+
 **name**
 
 Vor- und Nachname bei Personen, vollständiger Name bei nicht Personen
+
 
 **type**
 
@@ -47,13 +49,16 @@ Vor- und Nachname bei Personen, vollständiger Name bei nicht Personen
 
 2=keine Person 
 
+
 **age**
 
 Alter des Schauspielers bei Erscheinung des Projekts
 
+
 **year**
 
 Erscheinungsjahr des Projekts
+
 
 **sector**
 
@@ -96,14 +101,17 @@ Erscheinungsjahr des Projekts
 
 9=Sonstiges
 
+
 **country**
 
-Land aus dem Produktionsfirma kommt, die das Projekt produziert
+Herkunftsland des Beitrags bzw. des Projekts
+
 
 **production**
 
 Die (größte) Produktionsfirma des Beitrags
 
+
 **regie**
 
-Vor- und Nachname des Regisseur
+Vor- und Nachname des Regisseurs
