@@ -2,7 +2,7 @@ id,name,type,age,year,sector,genre,country,production,regisseur
 gaol,Gary Oldman,1,,,8,,,,
 noba,Nobodys Baby,2,43,2001,1,6,US,Nu Image,David Seltzer
 hannibal,Hannibal,2,43,2001,1,4,US,Metro Goldwyn Mayer,Ridley Scott
-friends,Friends,2,43,2001,2,6,US,Warner Bros ,James Burrows
+friends,Friends,2,43,2001,2,6,US,Warner Bros,James Burrows
 in60,Interstate 60,2,44,2002,1,6,UK,Seven Arts Entertainment,Bob Gale
 grthbu,Greg the Bunny,2,44,2002,2,6,US,20th Century Fox,Carlton Cuse
 bethde,Beat the Devil,2,44,2002,1,1,UK,Romulus Films,Tony Scott
@@ -15,10 +15,10 @@ babe,Batman Begins,2,47,2005,1,1,US,Warner Bros,Christopher Nolan
 defi,Dead Fish,2,47,2005,1,1,,,Charley Standler
 badijabe,Backwoods Die Jagd beginnt,2,48,2006,1,3,ESP,Filmax International,Koldo Serra
 thleofspanebe,The Legend of Spyro A New Beginning,2,48,2006,6,9,US,Vivendi Universal Games,
-thleofspthetni1,The Legend of Spyro The Eternal Night ,2,49,2007,2,9,AUS,Krome Studios,
+thleofspthetni1,The Legend of Spyro The Eternal Night,2,49,2007,2,9,AUS,Krome Studios,
 theleofspthetni2,The Legend of Spyro The Eternal Night,2,49,2007,6,9,US,Vivendi Universal Games,
-thdani,The Dark Night,2,50,2008,1,1,US,Warner Bros ,Christopher Nolan
-thleofspdaofthdr,The Legend of Spyro Dawn of the Dragon ,2,50,2008,6,9,US,Vivendi Universal Games,
+thdani,The Dark Night,2,50,2008,1,1,US,Warner Bros,Christopher Nolan
+thleofspdaofthdr,The Legend of Spyro Dawn of the Dragon,2,50,2008,6,9,US,Vivendi Universal Games,
 caofduwoatwa,Call of Duty Worlds at War,2,50,2008,6,9,US,Infinity Ward Treyarch Sledgehammer Games,
 goto,Gothman Tonight,2,50,2008,2,1,,,Christopher Nolan
 thun,The Unborn,2,51,2009,1,4,US,Platinum Dunes,David S Goyer
@@ -29,11 +29,11 @@ pl51,Planet 51,2,51,2009,1,6,ESP,Skydance Animation Madrid,Jorge Blanco
 thboofel,The Book of Eli,2,52,2010,1,1,US,Alcon Entertainment,Albert Hughes
 caofdublop,Call of Duty Black Ops,2,52,2010,6,9,US,Infinity Ward Treyarch Sledgehammer Games,
 bethca,Behind the Carol,2,52,2010,1,9,,,Robert Zemeckis
-reriho,Red Riding Hood ,2,53,2011,1,4,US,Warner Bros ,Catherine Hardwicke
-kufupa,Kung Fu Panda ,2,53,2011,1,8,US,Dream Works ,Jennifer Yuh Nelson
+reriho,Red Riding Hood ,2,53,2011,1,4,US,Warner Bros,Catherine Hardwicke
+kufupa,Kung Fu Panda ,2,53,2011,1,8,US,Dream Works,Jennifer Yuh Nelson
 titasosp,Tinker Tailor Soldier Spy,2,54,2012,1,9,FRA,Studio Canal,Tomas Alfredson
 lawless,Lawless,2,54,2012,1,2,US,Annapurna Pictures,John Hillcoat
-thdaniri,The Dark Night Rises,2,54,2012,1,1,US,Warner Bros ,Christopher Nolan
+thdaniri,The Dark Night Rises,2,54,2012,1,1,US,Warner Bros,Christopher Nolan
 guangi,Guns and Girls,2,54,2012,1,3,UK,Freefall Films,Michael Winnick
 dabothneda,David Bowie The Next Day,2,55,2013,5,9,US,Columbia Records,Floria Sigismondi
 paranoia,Paranoia,2,55,2013,1,3,US,Global Road Entertainment,Robert Luketic
