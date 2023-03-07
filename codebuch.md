@@ -3,9 +3,9 @@ Forschungsfrage: Wie haben sich die Karrieren der Harry Potter Schauspieler seit
 
 ## Inhalt 
 
-edgelist.csv 
+edgelistpotter.csv 
 
-nodelist.csv
+nodelistpotter.csv
 
 # EDGE-Attribute
 
