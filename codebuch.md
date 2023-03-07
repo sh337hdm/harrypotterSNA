@@ -1,5 +1,5 @@
 # Codebuch
-Wie haben sich die Karrieren der Harry Potter Schauspieler seit ihrem Debüt in der Filmreihe entwickelt?
+Forschungsfrage: Wie haben sich die Karrieren der Harry Potter Schauspieler seit ihrem Debüt in der Filmreihe entwickelt?
 
 ## Inhalt 
 
@@ -32,6 +32,7 @@ ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Koope
 6=Synchronsprecher
 
 # NODE-Attribute
+
 **id**
 
 IDs aus der Edgelist (from & to Spalte)
@@ -48,11 +49,11 @@ Voller Name/Bezeichnung
 
 **age**
 
-Alter des Schauspielers bei Erscheinung des Films
+Alter des Schauspielers bei Erscheinung des Projekts
 
 **year**
 
-Erscheinungsjahr des Films
+Erscheinungsjahr des Projekts
 
 **sector**
 
@@ -62,9 +63,9 @@ Erscheinungsjahr des Films
 
 3=Werbung
 
-4=Theater
+4=Theaterstück
 
-5=Musik
+5=Musikvideo
 
 6=Sonstiges
 
@@ -74,7 +75,6 @@ Erscheinungsjahr des Films
 
 9=Produktion
 
-(macht es Sinn hier für die Personen noch 2 Sektoren hin wie Schauspieler und Regie/Produktion?) Weil sonst kann man alle Personen gar nicht einordnen
 
 **genre**
 
@@ -98,13 +98,4 @@ Erscheinungsjahr des Films
 
 **land**
 
-Land aus dem Produktionsfirma kommt oder Herkunft des Films/Serie
-
-Beispiel Abkürzung:
-DE
-UK
-US
-FR
-SK
-
-
+Land aus dem Produktionsfirma kommt, die das Projekt produziert
