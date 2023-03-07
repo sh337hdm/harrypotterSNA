@@ -1,0 +1,64 @@
+id,name,type,age,year,sector,produktionsfirma,regisseur,genre,country
+ew,Emma (Charlotte Duerre) Watson,1,32,1990,7,,,,
+bs,Ballet Shoes,2,17,2007,1,BBC,Sandra Goldbacher,2,UK
+sg,Sandra Goldbacher,1,,,8,,,,
+bbc,British Broadcasting Corporation,2,,,9,,,,
+dx,Desperaux,2,18,2008,1,Universal Animation Studios,"Sam Fell, Robert Stevenhagen",8,US
+sf,Sam Fell,1,,,8,,,,
+rs,Robert Stevenhagen,1,,,8,,,,
+uas,Universal Animation Studios,2,,,9,,,,
+syd,Say You Dont Want It,2,20,2010,5,Mercury Records,,,
+ono,One Night Only,2,,,5,,,,
+mr,Mercury Records,2,,,9,,,,
+mw,My week with Marilyn,2,21,2011,1,BBC,Simon Curtis,1,UK
+sc,Simon Curtis,1,,,8,,,,US
+pbw,The perks of being a Wallflower,2,22,2012,1,"Summit Entertainment, Mr Mudd",Stephen Chbosky,2,
+sch,Stephen Chbosky,1,,,8,,,,
+se,Summit Entertainment,2,,,9,,,,
+mm,Mr Mudd,2,,,9,,,,
+cd,Colonia Dignidad,2,25,2015,1,Iris Productions,Florian Gallenberger,1,DE
+fg,Florian Gallenberger,1,,,8,,,,
+ip,Iris Productions,2,,,9,,,,
+tbr,The bling ring,2,23,2013,1,"American Zoetrope, Nala Films",Sofia Coppola,6,US
+sco,Sofia Coppola,1,,,8,,,,
+az,American Zoetrope,2,,,9,,,,
+nf,Nala Films,2,,,9,,,,
+te,This is the end,2,23,2013,1,"Point Grey Pictures, Columbia Pictures","Seth Rogan, Evan Goldberg",6,US
+sr,Seth Rogan,1,,,8,,,,
+eg,Evan Goldberg,1,,,8,,,,
+pg,Point Grey Pictures,2,,,9,,,,
+cp,Columbia Pictures,2,,,9,,,,
+nh,Noah,2,24,2014,1,Paramount Pictures,Darren Aronofsky,1,US
+da,Darren Aronofsky,1,,,8,,,,
+pap,Paramount Pictures,2,,,9,,,,
+vd,The Vicar of Debley,2,25,2015,2,Tiger Aspect Productions,Dewi Humphrey,6,UK
+dh,Dewi Humphrey,1,,,8,,,,
+tap,Tiger Aspect Productions,2,,,9,,,,
+rg,Regression,2,25,2015,1,Himenoptero,Alejandro Amenabar,3,ES
+aa,Alejandro Amenabar,1,,,8,,,,
+him,Himenoptero,2,,,9,,,,
+tc,The Circle,2,27,2017,1,"Playtone, Likely Story",James Ponsoldt,3,US
+jp,James Ponsoldt,1,,,8,,,,
+pl,Playtone,2,,,9,,,,
+ls,Likely Story,2,,,9,,,,
+bab ,Beatuy and the Beast,2,27,2017,1,"Walt Disney Pictures, Mandeville Films",Bill Condon,2,US
+bc,Bill Condon,1,,,8,,,,
+wdp,Walt Disney Pictures,2,,,9,,,,
+mf,Mandeville Films,2,,,9,,,,
+lw,Little Women,2,29,2019,1,"Columbia Pictures, Pascal Pictures",Greta Gerwig,2,US
+gg,Greta Gerwig,1,,,8,,,,
+pp,Pascal Pictures,2,,,9,,,,
+,,,,,,,,,
+,,,,,,,,,
+bur,Burberry,2,19,2009,3,,,,
+pt,People Tree,2,20,2010,3,,,,
+ch,Chanel,2,18,2008,3,,,,
+lan,Lancome,2,21,2011,3,,,,
+,,,,,,,,,
+vw,Verwaltungsrat,2,30,2020,6,,,,
+ker,Kering,2,30,2020,6,,,,
+uno,United Nations Organization,2,,,6,,,,
+fem,Frauenrechte,2,24,2014,6,,,,
+oss,Our Shared Shelf,2,26,2016,6,,,,
+ama,Amazon,2,,,6,,,,
+clim,UN Klimakonferenz,2,31,2021,6,,,,
