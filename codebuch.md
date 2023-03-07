@@ -39,7 +39,7 @@ IDs aus der Edgelist (from & to Spalte)
 
 **name**
 
-Voller Name/Bezeichnung
+Vor- und Nachname bei Personen, vollständiger Name bei nicht Personen
 
 **type**
 
@@ -96,6 +96,14 @@ Erscheinungsjahr des Projekts
 
 9=Sonstiges
 
-**land**
+**country**
 
 Land aus dem Produktionsfirma kommt, die das Projekt produziert
+
+**production**
+
+Die (größte) Produktionsfirma des Beitrags
+
+**regie**
+
+Vor- und Nachname des Regisseur
