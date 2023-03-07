@@ -1,0 +1,99 @@
+id,name,type,age,year,sector,genre,land,production,regie
+tf,Tom Felton,1,,,7,,,,
+td,The Disappeared,2,21,2008,1,4,UK,Lost Tribe Productions,Johnny Kevorkian
+mt,Maennertrip,2,23,2010,1,6,US,Universal Pictures,Nicholas Stoller
+nw,Night Wolf,2,23,2010,1,4,UK,Eyeline Entertainment,Jonathan Glendening
+wo,White Other,2,23,2010,1,3,UK,,Dan Hartley
+pda,Planet der Affen Prevolution,2,24,2011,1,5,US,Twentieth Century Fox,Rupert Wyatt
+app,Apparition,2,25,2012,1,4,US,Warner Bros,Todd Lincoln
+dvl,Das verlorene Labyrinth,2,25,2012,2,2,UK,Scott Free Productions,Cristopher Smith
+ftr,From the Rough,2,26,2013,1,2,US,From the Rough Productions,Pierre Bagley
+is,In Secret,2,26,2013,1,2,US,LD Entertainment,Charlie Stratton
+deb,Dido Elizabeth Belle,2,26,2013,1,2,UK,DJ Films,Amma Asante
+fc1,Full Circle,2,26,2013,2,2,US,Momentum TV,Nick Hamm
+fc2,Full Circle,2,26,2013,2,2,US,Momentum TV,Mimi Leder
+mitf,Murder in the First,2,27,2014,2,3,US,TNT Originals,Tommaso Pitta
+dbpp,How I didnt become a Piano Player,2,27,2014,1,2,UK,National Film and Television School,Jesse Bochco
+ats,Against the Sun,2,27,2014,1,2,US,The American Film Company,Brian Peter Falk
+auf,Auferstanden,2,29,2016,1,1,US,LD Entertainment,Kevin Reynolds
+vvdw,Völlig von der Wolle,2,29,2016,1,8,RUS,Wizart Animations,Andrey Galat
+mftk,Message from the King,2,29,2016,1,3,US,Backup Media,Fabrice du Welz
+auk,A United Kingdom,2,29,2016,1,2,UK,Pathe UK,Amma Asante
+str,Stratton,2,30,2017,1,1,UK,Atomic Arts,Simon West
+sr,Sergeant Rex,2,30,2017,1,2,US,LD Entertainment,Gabriela Cowperthwaite
+thef,The Flash,2,29,2016,2,5,US,Berlani Productions,Andy Muschietti
+feed,Feed,2,30,2017,1,2,US,Indy Entertainment,Tommy Bertelsen
+oph,Ophelia,2,31,2018,1,2,UK,Covert Media,Claire McCarthy
+es,James Arthur Empty Space,2,31,2018,5,9,UK,Cardel Entertainment,Andzej Gavriss
+ori,Origin,2,31,2018,2,5,US,Left Bank Pictures,Paul w s Anderson
+bfw,Braking for Whales,2,32,2019,1,6,US,Charlie Baby Productions,Sean McEwen
+abgtmh,A Babysitters Guide to Monster Hunting,2,33,2020,1,5,US,Netflix,Rachel Talalay
+suds,Die Schlacht um die Schelde,2,33,2020,1,2,NLD,Levitate Film,Matthijs van Heijningen Jr
+totm,A Tale of Two Mindsets,2,34,2021,1,2,UK,Tomfoolery,
+stc,Save the Cinema,2,35,2022,1,6,UK,Future Artists Entertainment,Sara Sugerman
+cdm,Canyon Del Muerto,2,35,2022,1,2,US,A Visionary Film,Coerte Voorhees
+aye,Russ ft Ed Sheeran Are You Entertained,2,35,2022,5,9,US,RadicalMedia,Jake Nava
+burial,Burial,2,35,2022,1,4,UK,Stigma Films,Ben Parker
+ltp,Lost Tribe Productions,2,,,9,,,,
+jk,Johnny Kevorkian,1,,,8,,,,
+up,Universal Pictures,2,,,9,,,,
+nis,Nicholas Stoller,1,,,8,,,,
+ee,Eyeline Entertainment,2,,,9,,,,
+jg,Jonathan Glendening,1,,,8,,,,
+dh,Dan Hartley,1,,,8,,,,
+20cf,Twentieth Century Fox,2,,,9,,,,
+rw,Rupert Wyatt,1,,,8,,,,
+wb,Warner Bros,2,,,9,,,,
+tl,Todd Lincoln,1,,,8,,,,
+sfp,Scott Free Productions,2,,,9,,,,
+criss,Cristopher Smith,1,,,8,,,,
+ftrp,From the Rough Productions,2,,,9,,,,
+pb,Pierre Bagley,1,,,8,,,,
+ld,LD Entertainment,2,,,9,,,,
+chars,Charlie Stratton,1,,,8,,,,
+dj,DJ Films,2,,,9,,,,
+aa,Amma Asante,1,,,8,,,,
+mom,Momentum TV,2,,,9,,,,
+nh,Nick Hamm,1,,,8,,,,
+ml,Mimi Leder,1,,,8,,,,
+tnt,TNT Originals,2,,,9,,,,
+tp,Tommaso Pitta,1,,,8,,,,
+jb,Jesse Bochco,1,,,8,,,,
+afc,The American Film Company,2,,,9,,,,
+bpf,Brian Peter Falk,1,,,8,,,,
+kr,Kevin Reynolds,1,,,8,,,,
+wa,Wizart Animations,2,,,9,,,,
+ag,Andrey Galat,1,,,8,,,,
+bm,Backup Media,2,,,9,,,,
+fdw,Fabrice du Welz,1,,,8,,,,
+puk,Pathe UK,2,,,9,,,,
+ata,Atomic Arts,2,,,9,,,,
+sw,Simon West,1,,,8,,,,
+gc,Gabriela Cowperthwaite,1,,,8,,,,
+berlani,Berlani Productions,2,,,9,,,,
+indy,Indy Entertainment,2,,,9,,,,
+tb,Tommy Bertelsen,1,,,8,,,,
+cm,Covert Media,2,,,9,,,,
+cmcc,Claire McCarthy,1,,,8,,,,
+ce,Cardel Entertainment,2,,,9,,,,
+anga,Andzej Gavriss,1,,,8,,,,
+lbp,Left Bank Pictures,2,,,9,,,,
+cbp,Charlie Baby Productions,2,,,9,,,,
+smce,Sean McEwen,1,,,8,,,,
+netflix,Netflix,2,,,9,,,,
+rt,Rachel Talalay,1,,,8,,,,
+lf,Levitate Film,2,,,9,,,,
+mvhjr,Matthijs van Heijningen Jr,1,,,8,,,,
+tomf,Tomfoolery,2,,,9,,,,
+fae,Future Artists Entertainment,2,,,9,,,,
+sasu,Sara Sugerman,1,,,8,,,,
+avf,A Visionary Film,2,,,9,,,,
+cv,Coerte Voorhees,1,,,8,,,,
+rm,RadicalMedia,2,,,9,,,,
+jn,Jake Nava,1,,,8,,,,
+sf,Stigma Films,2,,,9,,,,
+bp,Ben Parker,1,,,8,,,,
+pwsa,Paul W S Anderson,1,,,8,,,,
+andymus,Andy Muschietti,1,,,8,,,,
+rogue,Roguerunner,2,,,9,,,,
+nfts,National Film and Television School,2,,,9,,,,
