@@ -132,18 +132,18 @@ The one and only -> id: thonanon
 
 No one left to blame -> id: noonletobl
 
-**2. Genres von imbd ** 
+**2. Genres von imbd** 
 
 Die Genres der Filme werden von imbd genutzt. Nur wenn sich dort keine finden lassen, dürfen auch welche von anderen Plattformen eingetragen werden.
 
-**3. Produktionsstudios ** 
+**3. Produktionsstudios** 
 
 Falls mehrere Produktionsstudios beteiligt sind, wird nur das Größte genannt.
 
-**4. Regisseur **
+**4. Regisseur**
 
 Es wird nur ein Regisseur angegeben. Immer der, der als erstes gelistet wird. 
 
-**5. Keine Sonderzeichen, Umlaute ** 
+**5. Keine Sonderzeichen, Umlaute** 
 
 Die Verschwörung - keine Gnade -> die Verschwoerung keine Gnade -> id: divekegn
