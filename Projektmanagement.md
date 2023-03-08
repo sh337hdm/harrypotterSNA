@@ -1,7 +1,7 @@
 # Projektmanagement
 
 
-Forschungsfrage: Wie haben sich die Karrieren der Harry Potter Schauspieler*innen seit ihrem Debut in der FIlmreihe entwickelt? 
+**Forschungsfrage: Wie haben sich die Karrieren der Harry Potter Schauspieler*innen seit ihrem Debut in der FIlmreihe entwickelt?** 
 
 Wir untersuchen die Karrieren von sieben relevanten Harry Potter Darsteller*innen nach folgenden Daten: 
 
@@ -18,8 +18,8 @@ IMDB
 Rotten Tomatoes
 Amazon Prime Video
 
-06.02.2023:
-Meilenstein 1: 	Auswahl & der Schauspieler*innen + Festlegung der Attribute + Codierregeln + Aufgabenverteilung
+**06.02.2023:
+Meilenstein 1: 	Auswahl & der Schauspieler*innen + Festlegung der Attribute + Codierregeln + Aufgabenverteilung**
 
 
 Aufgaben:
@@ -47,16 +47,16 @@ Ralph Fiennes			Finn
 Harry Melling			Finn						
 James Phelps			Louisa		
 
-bis 25.02.2023
-Meilenstein 2: Datenerhebung + Erstellung der Listen + jeder teste seine eigene Liste in R 
+**bis 25.02.2023
+Meilenstein 2: Datenerhebung + Erstellung der Listen + jeder teste seine eigene Liste in R** 
 Wer? alle
 
-bis 27.02.2023
-Meilenstein 3: Zusammentragen + Vereinheitlichen der Listen + große Netzwerkerstellung in R 
+**bis 27.02.2023
+Meilenstein 3: Zusammentragen + Vereinheitlichen der Listen + große Netzwerkerstellung in R** 
 Wer? alle
 
 
-01.03-08.03.2023
-Meilenstein 4: Gemeinsame Fehleranalyse + Netzwerkerstellung + Abgabe
+**01.03-08.03.2023
+Meilenstein 4: Gemeinsame Fehleranalyse + Netzwerkerstellung + Abgabe**
 Wer? alle
 
