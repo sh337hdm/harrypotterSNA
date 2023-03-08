@@ -36,7 +36,7 @@ Pflege Listen in Spreadsheets: Louisa und Jonas
 
 Projektmanagment: Rebecca und Nina
 
-Verteilung von Schauspieler*innen: 
+**Verteilung von Schauspieler*innen:** 
 
 Emma Watson: Jonas		
 
