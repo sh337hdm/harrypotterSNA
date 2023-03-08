@@ -18,6 +18,8 @@ IMDB
 Rotten Tomatoes
 Amazon Prime Video
 
+
+
 **06.02.2023:
 Meilenstein 1: 	Auswahl & der Schauspieler*innen + Festlegung der Attribute + Codierregeln + Aufgabenverteilung**
 
@@ -51,9 +53,13 @@ James Phelps			Louisa
 Meilenstein 2: Datenerhebung + Erstellung der Listen + jeder teste seine eigene Liste in R** 
 Wer? alle
 
+
+
 **bis 27.02.2023
 Meilenstein 3: Zusammentragen + Vereinheitlichen der Listen + große Netzwerkerstellung in R** 
 Wer? alle
+
+
 
 
 **01.03-08.03.2023
