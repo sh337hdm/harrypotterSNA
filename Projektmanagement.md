@@ -28,35 +28,22 @@ Meilenstein 1: 	Auswahl der Schauspieler/innen + Festlegung der Attribute + Codi
 Aufgaben:
 
 Jeder: übernimmt 1-2 Schauspieler/innen je nach Größe. 
-
 Abgabebeauftragter: Finn
-
 Pflege Github: Sara 
-
 Pflege Listen in Spreadsheets: Louisa und Jonas
-
 Projektmanagment: Rebecca und Nina
 
 **Verteilung von Schauspieler/innen:** 
 
 Emma Watson: Jonas		
-
 Daniel Radcliffe: Nina	
-
 Rupert Grint: Louisa	
-
 Helena Bonham Carter: Rebecca	
-
 Gary Oldman: Rebecca				
-
 Tom Felton: Sara	
-
 Matthew Lewis: Sara				
-
 Ralph Fiennes: Finn	
-
 Harry Melling: Finn	
-
 James Phelps: Louisa		
 
 # bis 25.02.2023
