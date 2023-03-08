@@ -3,7 +3,7 @@
 
 **Forschungsfrage: Wie haben sich die Karrieren der Harry Potter Schauspieler*innen seit ihrem Debut in der FIlmreihe entwickelt?** 
 
-Wir untersuchen die Karrieren von sieben relevanten Harry Potter Darsteller*innen nach folgenden Daten: 
+Wir untersuchen die Karrieren von **sieben relevanten** Harry Potter Darsteller*innen nach folgenden Daten: 
 
 - Gedrehte Filme und Kurzfilme 
 - Gedrehte Serien 
