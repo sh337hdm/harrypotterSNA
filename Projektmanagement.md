@@ -25,7 +25,7 @@ Woher nehmen wir die Infos?
 Meilenstein 1: 	Auswahl der Schauspieler/innen + Festlegung der Attribute + Codierregeln + Aufgabenverteilung
 
 
-Aufgaben:
+**Aufgaben:**
 
 Jeder: übernimmt 1-2 Schauspieler/innen je nach Größe. 
 
