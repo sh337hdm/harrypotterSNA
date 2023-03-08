@@ -38,16 +38,25 @@ Projektmanagment: Rebecca und Nina
 
 Verteilung von Schauspieler*innen: 
 
-Emma Watson 	 		      Jonas					
-Daniel Radcliffe        Nina					
-Rupert Grint            Louisa			
-Helena Bonham Carter 		Rebecca			
-Gary Oldman			        Rebecca				
-Tom Felton			        Sara				
-Matthew Lewis			      Sara					
-Ralph Fiennes			      Finn								
-Harry Melling			      Finn						
-James Phelps			      Louisa		
+Emma Watson: Jonas		
+
+Daniel Radcliffe: Nina	
+
+Rupert Grint: Louisa	
+
+Helena Bonham Carter: Rebecca	
+
+Gary Oldman: Rebecca				
+
+Tom Felton: Sara	
+
+Matthew Lewis: Sara				
+
+Ralph Fiennes: Finn	
+
+Harry Melling: Finn	
+
+James Phelps: Louisa		
 
 # bis 25.02.2023
 Meilenstein 2: Datenerhebung + Erstellung der Listen + jeder teste seine eigene Liste in R 
