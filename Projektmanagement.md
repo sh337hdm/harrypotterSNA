@@ -14,19 +14,20 @@ Wir untersuchen die Karrieren von sieben relevanten Harry Potter Darsteller*inne
 
 
 Woher nehmen wir die Infos?
-IMDB
-Rotten Tomatoes
-Amazon Prime Video
+- IMDB
+- Rotten Tomatoes
+- Amazon Prime Video
 
 
 
 # 06.02.2023:
-Meilenstein 1: 	Auswahl & der Schauspieler*innen + Festlegung der Attribute + Codierregeln + Aufgabenverteilung
+
+Meilenstein 1: 	Auswahl der Schauspieler/innen + Festlegung der Attribute + Codierregeln + Aufgabenverteilung
 
 
 Aufgaben:
 
-Jeder: übernimmt 1-2 Schauspieler*innen je nach Größe. 
+Jeder: übernimmt 1-2 Schauspieler/innen je nach Größe. 
 
 Abgabebeauftragter: Finn
 
@@ -36,7 +37,7 @@ Pflege Listen in Spreadsheets: Louisa und Jonas
 
 Projektmanagment: Rebecca und Nina
 
-**Verteilung von Schauspieler*innen:** 
+**Verteilung von Schauspieler/innen:** 
 
 Emma Watson: Jonas		
 
