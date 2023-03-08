@@ -115,3 +115,35 @@ Die (größte) Produktionsfirma des Beitrags
 **regie**
 
 Vor- und Nachname des Regisseurs
+
+
+
+# Codierregeln: 
+
+**1. Abkürzung von Namen in id:**
+
+Beispiel:
+
+moonwalkers -> id: mooonwalkers (Eintragungen mit nur einem Wort, bleiben nur ein Wort) 
+
+sick note -> id: sino (Eintragungen mit zwei oder mehr Wörtern, werden die ersten beiden Buchstaben genutzt) 
+
+The one and only -> id: thonanon
+
+No one left to blame -> id: noonletobl
+
+**2. Genres von imbd ** 
+
+Die Genre der Filme werden von imbd genutzt. Nur wenn sich dort keine finden lassen, dürfen auch welche von anderen Plattformen eingetragen werden.
+
+**3. Produktionsstudios ** 
+
+Falls mehrere Produktionsstudios beteiligt sind, wird nur das Größte genannt.
+
+**4. Regisseur **
+
+Es wird nur ein Regisseur angegeben. Immer der, der als erstes gelistet wird. 
+
+**5. Keine Sonderzeichen, Umlaute ** 
+
+Die Verschwörung - keine Gnade -> die Verschwoerung keine Gnade -> id: divekegn
