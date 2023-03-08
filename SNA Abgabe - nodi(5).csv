@@ -1,0 +1,729 @@
+id,name,type,age,year,sector,genre,land,Produktionsfirma,Regie
+francr,Friends & Crocodiles,2,16,2005,1,2,UK,BBC One,Stephen Poliakoff
+merlin,Merlin ,2,21,2010,2,2,UK,BBC One,Ashley Way
+juwi,Just William,2,21,2010,2,9,UK,BBC One ,Paul Seed
+gala,Garrows Law,2,22,2011,2,2,UK,Twenty Twenty,Bryn Higgins
+thmu,The Musketeers,2,27,2016,2,2,UK,BBC One,Susan Tully
+thlociofz,The Lost City of Z ,2,27,2016,1,2,US,Paramount Pictures,James Gray
+edison,Edison,2,28,2017,1,2,US,The Weinstein Company,Alfonso Gomez-Rejon
+thbaofbusc,The Ballad of Buster Scruggs,2,29,2018,1,2,US,Mike Zoss Productions,Ethan Coen
+thbaofbuscc,The Ballad of Buster Scruggs,2,29,2018,1,2,US,Mike Zoss Productions,Joel Coen
+trautmann,Trautmann,2,29,2018,1,2,UK,Lieblingsfilm,Marcus H. Rosenmüller
+wafothba,Waiting for the Barbarians,2,30,2019,1,2,US,Constantin Film,Ciro Guerra
+thwaofthwo,The War of the Worlds,2,30,2019,2,1,UK,Mammoth Screen,Craig Viveiros
+hidama,His Dark Materials,2,30,2019,2,5,UK,BBC One,Otto Bathurst
+tholgu,The Old Guard ,2,31,2020,1,1,US,Skydance,Gina Prince-Bythewood
+thdealthti,The Devil All the Time,2,31,2020,1,3,US,Bronx Moving Co.,Antonio Campos
+sayopr,Say Your Prayers,2,31,2020,1,6,UK,Gravitas Ventures,Harry Michell
+thquga,The Queen´s Gambit,2,31,2020,2,2,US,Netflix,Scott Frank 
+thtrofma,The Tragedy of Macbeth,2,32,2021,1,2,US,A24,Joel Coen
+plbapl,Please Baby Please ,2,33,2022,1,9,US,Rivulet Media,Amanda Kramer
+thpabley,The Pale Blue Eye,2,33,2022,1,3,US,Cross Creek Pictures,Scott Cooper
+hame,Harry Melling,,,,7,,,,
+stpo,Stephen Poliakoff,,,,8,,,,
+mabi,Matt Birch,,,,8,,,,
+aswa,Ashley Way,,,,8,,,,
+pase,Paul Seed,,,,8,,,,
+brhi,Bryn Higgins,,,,8,,,,
+sutu,Susan Tully,,,,8,,,,
+jagr,James Gray,,,,8,,,,
+algore,Alfonso Gomez-Rejon,,,,8,,,,
+etco,Ethan Coen,,,,8,,,,
+joco,Joel Coen,,,,8,,,,
+mahro,Marcus H. Rosenmüller,,,,8,,,,
+cigu,Ciro Guerra,,,,8,,,,
+crvi,Craig Viveiros,,,,8,,,,
+otba,Otto Bathurst,,,,8,,,,
+giprby,Gina Prince-Bythewood,,,,8,,,,
+anca,Antonio Campos,,,,8,,,,
+hami,Harry Michell,,,,8,,,,
+scfr,Scott Frank ,,,,8,,,,
+amkr,Amanda Kramer,,,,8,,,,
+scco,Scott Cooper,,,,8,,,,
+elar,Electronic Arts,,,,9,,,,
+twtw,Twenty Twenty,,,,9,,,,
+thweco,The Weinstein Company,,,,9,,,,
+mizopr,Mike Zoss Productions,,,,9,,,,
+lieblingsfilm,Lieblingsfilm,,,,9,,,,
+cofi,Constantin Film,,,,9,,,,
+mammoth,Mammoth Screen,,,,9,,,,
+skydance,Skydance,,,,9,,,,
+brmoco,Bronx Moving Co.,,,,9,,,,
+grve,Gravitas Ventures,,,,9,,,,
+a24,A24,,,,9,,,,
+rime,Rivulet Media,,,,9,,,,
+crcrpi,Cross Creek Pictures,,,,9,,,,
+japh,James Phelps,1,1,1986,7,,UK,,
+amiey,A Mind´s Eye,2,23,2009,1,7,UK,Heraclitus Pictures,Joanna Callaghan
+kingdom,Kingdom,2,23,2009,2,6,UK,Parallel Film and Television,Simon Wheeler
+wath,Ward three,2,26,2012,1,4,UK,Met Film School,Saad Abbas
+thtu,The Turn,2,26,2012,1,2,UK,Superfilm Productions,Christian Krohn
+siwi,Silent Witness,2,29,2015,2,2,UK,British Broadcasting Corporation,Timothy Prager
+daanthhuzo,Danny and the Human Zoo,2,29,2015,1,2,UK,British Broadcasting Corporation,Destiny Ekaragha
+patchwork,Patchwork,2,29,2015,1,6,US,Infinite Lives Entertainment,Tyler Maclntyre
+seda,Seven Days,2,33,2019,1,7,UK,Pixel Revolution Films,Dominic Higgins
+cadia,Cadia,2,33,2019,1,5,US,Just a Skosh Productions,Cedric Gegel
+laniinso,Last Night in Soho,2,35,2021,1,2,UK,Focus Features International,Edgar Wright
+nonono,Normal not Normal,2,36,2022,6,7,UK,Stabl,Alice Homewood
+joca,Joanna Callaghan,1,,,8,,,,
+siwh,Simon Wheeler,1,,,8,,,,
+saab,Saad Abbas,1,,,8,,,,
+chkr,Christian Krohn,1,,,8,,,,
+tipr,Timothy Prager,1,,,8,,,,
+deek,Destiny Ekaragha,1,,,8,,,,
+tyma,Tyler Maclntyre,1,,,8,,,,
+dohi,Dominic Higgins,1,,,8,,,,
+cege,Cedric Gegel,1,,,8,,,,
+edwr,Edgar Wright,1,,,8,,,,
+alho,Alice Homewood,1,,,8,,,,
+hepi,Heraclitus Pictures,2,,,9,,,,
+pafiante,Parallel Film and Television,2,,,9,,,,
+mefisc,Met Film School,2,,,9,,,,
+supr,Superfilm Productions,2,,,9,,,,
+bbc,British Broadcasting Corporation,2,,,9,,,,
+inlien,Infinite Lives Entertainment,2,,,9,,,,
+pire,Pixel Revolution Films,2,,,9,,,,
+juaskpr,Just a Skosh Productions,2,,,9,,,,
+fofein,Focus Features International,2,,,9,,,,
+stabl,Stabl,2,,,9,,,,
+rugr,Rupert Grint,1,1,1988,7,,UK,,
+thunderpants,Thunderpants,2,14,2002,1,6,UK,Mission Pictures,Peter Hewitt
+drle,Driving Lessons,2,18,2006,1,6,UK,UK Film Council,Jermey Brock
+cherrybomb,Cherrybomb,2,21,2009,1,3,UK,Generation Entertainment,Lisa Barros DSa
+wita,Wild Target,2,22,2010,1,1,UK,Magic Light Productions,Jonathan Lynn
+coflwime,Come Fly With me,2,23,2011,2,6,UK,Little Britian Productions,Paul King
+intowh,Into the White,2,24,2012,1,1,NOR,Film Fund FUZZ,Petter Naess
+amda,American Dad,2,24,2012,2,8,US,20th Century Fox,Seth MacFarlane
+lalechc,Lang lebe Charly C,2,25,2013,1,2,US,Voltage Pictures,Frederik Bond
+cbgb,CBGB,2,25,2013,1,2,US,Unclaimed Freight Productions,Randall Miller
+sucl,Super Clyde,2,25,2013,1,8,US,CBS Entertainment,Michael Fresco
+popa,Postman Pat,2,25,2013,1,8,UK,Rubicon Group Holding,Mike Disa
+moonwalkers,Moonwalkers,2,27,2015,1,6,FR,Will Vinton,Antoine Bardou Jacquet
+snatch,Snatch,2,29,2017,2,1,UK,Exile Entertainment Double Dare You,Guy Ritchie
+sino,Sick Note,2,30,2018,2,6,UK,BBC,Matt Lipsey
+dimodeheab,Die Morde des Herrn ABC,2,30,2018,2,3,UK,Columbia Pictures,Frank Tashlin
+servant,Servant,2,35,2023,2,4,US,King Bert Productions,M Night Shymalan
+gudetocaofcu,Gullimero del Toros Cabinet of Curiosities,2,34,2022,2,4,US,Metro Goldwyn Mayer,Jennifer Kent
+knthca,Knock the Cabin,2,35,2023,1,4,US,Blinding Edge Pictures,M Night Shymalan
+leho,Lego House,2,23,2011,5,2,US,Warner Music Group,Shane Ramirez
+habipepa,Happy Bithday Peter Pan,2,17,2005,2,7,UK,Diverse Productions,Roy Ackerman
+fussball,Fussball,2,25,2013,1,8,ARG,100 Bares,Juan Jose Campanella
+enofma,Enemy of man,2,26,2014,1,2,UK,Universal Studios,Vincent Regan
+trulsh,Tracey Ullmans Show,2,28,2016,2,6,UK,Hell Kite Films,Jamie Dooner
+urmy,Urban Myths,2,29,2017,2,6,UK,Sky Arts,Ben Palmer
+mipi,Mission Pictures,2,,,9,,,,
+ukfico,UK Film Council,2,,,9,,,,
+geen,Generation Entertainment,2,,,9,,,,
+malipr,Magic Light Productions,2,,,9,,,,
+fifufu,Film Fund FUZZ,2,,,9,,,,
+vopi,Voltage Pictures,2,,,9,,,,
+unfrpr,Unclaimed Freight Productions,2,,,9,,,,
+rugrho,Rubicon Group Holding,2,,,9,,,,
+wivi,Will Vinton,2,,,9,,,,
+exendodayo,Exile Entertainment Double Dare You,2,,,9,,,,
+kibepr,King Bert Productions,2,,,9,,,,
+bledpi,Blinding Edge Pictures,2,,,9,,,,
+dipr,Diverse Productions,2,,,9,,,,
+100ba,100 Bares,2,,,9,,,,
+unst,Universal Studios,2,,,9,,,,
+hekifi,Hell Kite Films,2,,,9,,,,
+skar,Sky Arts,2,,,9,,,,
+pehe,Peter Hewitt,1,,,8,,,,
+jebr,Jeremy Brock,1,,,8,,,,
+libads,Lisa Barros DSa,1,,,8,,,,
+joly,Jonathan Lynn,1,,,8,,,,
+paki,Paul King,1,,,8,,,,
+pena,Petter Naess,1,,,8,,,,
+sema,Seth MacFarlane,1,,,8,,,,
+frbo,Frederik Bond,1,,,8,,,,
+rami,Randall Miller,1,,,8,,,,
+mifr,Michael Fresco,1,,,8,,,,
+midi,Mike Disa,1,,,8,,,,
+anba,Antoine Bardou Jacquet,1,,,8,,,,
+guri,Guy Ritchie,1,,,8,,,,
+mali,Matt Lipsey,1,,,8,,,,
+frta,Frank Tashlin,1,,,8,,,,
+mnish,M Night Shymalan,1,,,8,,,,
+jeke,Jennifer Kent,1,,,8,,,,
+shra,Shane Ramirez,1,,,8,,,,
+roac,Roy Ackerman,1,,,8,,,,
+jujoca,Juan Jose Campanella,1,,,8,,,,
+vire,Vincent Regan,1,,,8,,,,
+jado,Jamie Dooner,1,,,8,,,,
+bepa,Ben Palmer,1,,,8,,,,
+thplwhiwr,The Play What I Wrote,2,39,2001,4,6,UK,Wyndhams Theatre,Kenneth Branagh
+spider,Spider,2,40,2002,1,3,US,Sony Pictures Classics,David Cronenberg
+dedivomoca,Der Dieb von Monte Carlo,2,40,2002,1,2,US,Fox,Neil Jordan
+rodr,Roter Drache,2,40,2002,1,4,US,Universal Pictures,Brett Ratner
+malost,Manhatten Love Story,2,40,2002,1,6,US,Columbia Pictures,Kenneth Branagh
+thtacu,The Talking Cure,2,41,2003,4,2,UK,Royal National Theatre,Howard Davies
+brand,Brand,2,41,2003,4,2,UK,The Royal Shakespeare Company,Adrian Noble
+liki,Libertys Kids,2,40,2002,2,8,US,PBS,Judith Reilly
+likitwo,Libertys Kids,2,41,2003,2,8,US,PBS,Judith Reilly
+frahiofus,Freedom A History of US,2,41,2003,2,7,US,PBS,Philip Kunhardt III
+tedatodd,Ten Days to DDay,2,42,2004,1,2,US,AandEs History Channel,Marion Milne
+thchglinkldo,The Chumscrubber Glueck in kleinen Dosen,2,43,2005,1,2,US,Picturehouse,Arie Posin
+chromophobia,Chromophobia,2,43,2005,1,2,CAN,Momentum Pictures,Martha Fiennes
+deewga,Der ewige Gaertner,2,43,2005,1,2,US,Focus Features,Fernando Meirelles
+waungraudejanaderi,Wallace und Gromit Auf der Jagd nach dem Riesenkaninchen,2,43,2005,1,8,US,DreamWorks,Steve Box
+waungraudejanaderitwo,Wallace Gromit Auf der Jagd nach dem Riesenkaninchen,2,43,2005,1,8,US,DreamWorks,Nick Park
+thwhco,The White Countess,2,43,2005,1,2,US,Sony Pictures Classics,James Ivory
+hapoanthgooffi,Harry Potter and the Goblet of Fire,2,43,2005,6,9,US,Electronic Arts,Nuno Miranda
+juca,Julius Caesar,2,43,2005,4,2,UK,Barbican Centre,Deborah Warner
+fahe,Faith Healer,2,44,2006,4,2,UK,GateTheatre,Jonathan Kent
+laofthbl,Land of the Blind,2,44,2006,1,3,US,Samuel Goldwyn Films,Robert Edwards
+beando,Bernard and Doris,2,44,2006,1,6,US,HBO,Bob Balaban
+filo,First Love,2,45,2007,4,2,AUS,Sydney Festival,Michael Colgan
+hapoanthorofthph,Harry Potter and the Order of the Phoenix,2,45,2007,6,9,US,Electronic Arts,Matt Birch
+degodege,Der Gott des Gemetzels,2,46,2008,4,6,UK,Gielgud Theatre,Matthew Warchus
+kooe,Koenig Oedipus,2,46,2008,4,2,UK,Royal National Theatre,Jonathan Kent
+brseunst,Bruegge sehen und sterben,2,46,2008,1,6,US,Focus Features,Martin McDonagh
+dihe,Die Herzogin,2,46,2008,1,3,US,Paramount Pictures,Saul Dibb
+tokothhulo,Toedliches Kommando The Hurt Locker,2,46,2008,1,1,DE,Summit Media,Kathryn Bigelow
+devo,Der Vorleser,2,46,2008,1,2,US,Weinstein Co,Stephen Daldry
+thwidr,The Wildest Dream,2,48,2010,1,7,US,National Geographic,Anthony Geffen
+eizanaknaufaineineab,Eine zauberhafte Nanny Knall auf Fall in ein neues Abenteuer,2,48,2010,1,6,US,Universal Studios,Susanna White
+kadeti,Kampf der Titanen,2,48,2010,1,2,US,Warner Bros,Louis Leterrier
+cejudaleunaner,Cemetery Junction Das Leben und andere Ereignisse,2,48,2010,1,2,US,Sony Pictures,Ricky Gervais
+cejudaleunanertwo,Cemetery Junction Das Leben und andere Ereignisse two,2,48,2010,1,2,US,Sony Pictures,Stephen Merchant
+dest,Der Sturm,2,49,2011,4,2,UK,Theatre Royal Haymarket,Trevor Nunn
+coriolanus,Coriolanus,2,49,2011,1,1,US,Weinstein Co,Ralph Fiennes
+diveveauhoeb,Die Verschwoerung Verrat auf hoechster Ebene,2,49,2011,1,3,AUT,Koch Media GmbH,David Hare
+zodeti,Zorn der Titanen,2,50,2012,1,1,US,Warner Bros,Jonathan Liebesmann
+grer,Große Erwartungen,2,50,2012,1,2,US,Fox,Mike Newell
+jabosk,James Bond Skyfall,2,50,2012,1,1,US,Sony Pictures Entertainment,Sam Mendes
+thinwo,The Invisible Woman,2,51,2013,1,2,UK,Sony Pictures Classics,Ralph Fiennes
+grbuho,Grand Budapest Hotel,2,52,2014,1,6,US,Fox Searchlight,Wes Anderson
+divetoge,Die Verschwörung Tödliche Geschäfte,2,52,2014,1,3,AUT,Koch Media GmbH,David Hare
+divegnja,Die Verschwörung Gnadenlose Jagd,2,52,2014,1,3,AUT,Koch Media GmbH,David Hare
+rev,Rev,2,52,2014,2,6,US,BBC America,Peter Cattaneo
+mevde,Mesyats v derevne,2,52,2014,1,2,US,Warner Bros,Vera Glagoleva
+maansu,Man and Superman,2,53,2015,4,2,UK,Royal National Theatre,Simon Godwin
+abisp,A Bigger Splash,2,53,2015,1,3,FR,Fox Searchlight,Luca Guadagnino
+jabosp,James Bond Spectre,2,53,2015,1,1,US,Sony Pictures Entertainment,Sam Mendes
+baso,Baumeister Solness,2,54,2016,4,2,UK,Old Vic Theatre,Matthew Warchus
+richardthree,Richard III,2,54,2016,4,2,UK,Almeida Theatre,Rupert Goold
+haca,Hail Caesar,2,54,2016,1,6,US,Universal Pictures,Ethan Coen
+hacatwo,Hail Caesar two,2,54,2016,1,6,US,Universal Pictures,Joel Coen
+thwo,The Works,2,54,2016,1,2,UK,Kickstarter,Elliot Barnes Worrell
+kudetasa,Kubo Der tapfere Samurai,2,54,2016,1,8,US,Focus Features,Travis Knight
+thlebamo,The Lego Batman Movie,2,55,2017,1,8,US,Warner Bros,Chris McKay
+seso,Sea Sorrow,2,55,2017,1,7,UK,Dissent Projects LTD,Vanessa Redgrave
+anuncl,Antonius und Cleopatra,2,56,2018,4,2,UK,Royal National Theatre,Simon Godwin
+nuthwhcr,Nurejew The White Crow,2,56,2018,1,2,US,Sony Pictures Classics,Ralph Fiennes
+hoanwa,Holmes and Watson,2,56,2018,1,6,US,Columbia Pictures,Etan Cohen
+ofse,Official Secrets,2,57,2019,1,3,CAN,IFC Films,Gavin Hood
+thlemo2,The Lego Movie 2,2,57,2019,1,8,US,Warner Bros,Mike Mitchell
+co53,Coup 53,2,57,2019,1,7,UK,Amirani Media,Taghi Amirani
+bethde,Beat the Devil,2,58,2020,4,9,UK,Bridge Theatre,Nicholas Hytner
+difarededrdo,Die fantastische Reise des Dr Dolittle,2,58,2020,1,6,US,Universal Pictures,Stephen Gaghan
+diau,Die Ausgrabung,2,59,2021,1,2,US,Netflix,Simon Stone
+thfo,The Forgiven,2,59,2021,1,2,US,Roadside Attractions,John Michael McDonagh
+jabokezezust,James Bond Keine Zeit zu sterben,2,59,2021,1,1,US,Metro Goldwyn Mayer,Cary Joji Fukunaga
+bethdefilm,Beat the Devil,2,59,2021,1,9,US,Annapurna Pictures,David Hare
+thkima,The Kings Man,2,59,2021,1,6,US,20th Century Fox,Matthew Vaughn
+thme,The Menu,2,60,2022,1,3,US,Searchlight Pictures,Mark Mylod
+stlicr,Straight Line Crazy,2,60,2022,4,2,UK,Bridge Theatre,Nicholas Hytner
+rafi,Ralph Fiennes,1,,,7,,,,
+dacr,David Cronenberg,1,,,8,,8,,
+nejo,Neil Jordan,1,,,8,,8,,
+brra,Brett Ratner,1,,,8,,8,,
+hoda,Howard Davies,1,,,8,,8,,
+adno,Adrian Noble,1,,,8,,8,,
+jure,Judith Reilly,1,,,8,,8,,
+phku,Philip Kunhardt III,1,,,8,,8,,
+mami,Marion Milne,1,,,8,,8,,
+arpo,Arie Posin,1,,,8,,8,,
+mafi,Martha Fiennes,1,,,8,,8,,
+feme,Fernando Meirelles,1,,,8,,8,,
+stbo,Steve Box,1,,,8,,8,,
+nipa,Nick Park,1,,,8,,8,,
+jaiv,James Ivory,1,,,8,,8,,
+numi,Nuno Miranda,1,,,8,,8,,
+dewa,Deborah Warner,1,,,8,,8,,
+joke,Jonathan Kent,1,,,8,,8,,
+roed,Robert Edwards,1,,,8,,8,,
+boba,Bob Balaban,1,,,8,,8,,
+mico,Michael Colgan,1,,,8,,8,,
+mawa,Matthew Warchus,1,,,8,,8,,
+mava,Matthew Vaughn,1,,,8,,8,,
+mamc,Martin McDonagh,1,,,8,,8,,
+sadi,Saul Dibb,1,,,8,,8,,
+kabi,Kathryn Bigelow,1,,,8,,8,,
+stda,Stephen Daldry,1,,,8,,8,,
+ange,Anthony Geffen,1,,,8,,8,,
+suwh,Susanna White,1,,,8,,8,,
+lole,Louis Leterrier,1,,,8,,8,,
+rige,Ricky Gervais,1,,,8,,8,,
+stme,Stephen Merchant,1,,,8,,8,,
+trnu,Trevor Nunn,1,,,8,,8,,
+daha,David Hare,1,,,8,,8,,
+joli,Jonathan Liebesmann,1,,,8,,8,,
+mine,Mike Newell,1,,,8,,8,,
+same,Sam Mendes,1,,,8,,8,,
+wean,Wes Anderson,1,,,8,,8,,
+peca,Peter Cattaneo,1,,,8,,8,,
+vegl,Vera Glagoleva,1,,,8,,8,,
+sigo,Simon Godwin,1,,,8,,8,,
+lugu,Luca Guadagnino,1,,,8,,8,,
+rugo,Rupert Goold,1,,,8,,8,,
+elbawo,Elliot Barnes Worrell,1,,,8,,8,,
+trkn,Travis Knight,1,,,8,,8,,
+chmc,Chris Mckay,1,,,8,,8,,
+vare,Vanessa Redgrave,1,,,8,,8,,
+etanco,Etan Cohen,1,,,8,,8,,
+gaho,Gavin Hood,1,,,8,,8,,
+mimi,Mike Mitchell,1,,,8,,8,,
+taam,Taghi Amirani,1,,,8,,8,,
+nihy,Nicholas Hytner,1,,,8,,8,,
+stga,Stephen Gaghan,1,,,8,,8,,
+sist,Simon Stone,1,,,8,,8,,
+jomimc,John Michael McDonagh,1,,,8,,8,,
+cajofu,Cary Joji Fukunaga,1,,,8,,8,,
+mamy,Mark Mylod,1,,,8,,8,,
+wyth,Wyndhams Theatre,2,,,9,,9,,
+fox,Fox,2,,,9,,9,,
+ronath,Royal National Theatre,2,,,9,,9,,
+throshco,The Royal Shakespeare Company,2,,,9,,9,,
+pbs,PBS,2,,,9,,9,,
+aaneshich,AandEs History Channel,2,,,9,,9,,
+picturehouse,Picturehouse,2,,,9,,9,,
+dreamworks,Dreamworks SKG,2,,,9,,9,,
+bace,Barbican Centre,2,,,9,,9,,
+gath,GateTheatre,2,,,9,,9,,
+sagofi,Samuel Goldwyn Films,2,,,9,,9,,
+syfe,Sydney Festival,2,,,9,,9,,
+gith,Gielgud Theatre,2,,,9,,9,,
+paramount,Paramount,2,,,9,,9,,
+sume,Summit Media,2,,,9,,9,,
+nage,National Geographic,2,,,9,,9,,
+throha,Theatre Royal Haymarket,2,,,9,,9,,
+komegm,Koch Media GmbH,2,,,9,,9,,
+fose,Fox Searchlight,2,,,9,,9,,
+bbca,BBC America,2,,,9,,9,,
+olvith,Old Vic Theatre,2,,,9,,9,,
+alth,Almeida Theatre,2,,,9,,9,,
+kickstarter,Kickstarter,2,,,9,,9,,
+diprlt,Dissent Projects LTD,2,,,9,,9,,
+iffi,IFC Films,2,,,9,,9,,
+brth,Bridge Theatre,2,,,9,,9,,
+roat,Roadside Attractions,2,,,9,,9,,
+sepi,Searchlight Pictures,2,,,9,,9,,
+heboca,Helena Bonham Carter,1,,,7,,,,
+pldeaf,Planet der Affen,2,35,2001,1,5,US,20th Century Fox,Tim Burton
+novocaine,Novocaine,2,35,2001,1,6,US,Artisan Entertainment,David Atkins
+football,Football,2,35,2001,1,9,,,Gaby Dellal
+thheofme,The Heart of Me,2,36,2002,1,2,US,ThinkFilm,Thaddeus O Sullivan
+tihuvowaus,Till Human Voices Wake us,2,36,2002,1,2,US,Paramount Pictures,Michael Petroni
+lifrba,Live from Baghdad,2,36,2002,1,2,US,HBO Films,Mick Jackson
+hevi,Henry VIII,2,37,2003,2,2,US,CBS,Pete Travis
+bifi,Big Fish,2,37,2003,1,5,US,Columbia Pictures,Tim Burton
+lesn,Lemony Snicket,2,38,2004,1,6,US,DreamWorks,Brad Silberling
+chundisc,Charlie und die Schokoladenfabrik,2,39,2005,1,5,US,Warner Bros ,Tim Burton
+cowiotwo,Conversations with other Women,2,39,2005,1,9,US,Fabrication Films,Hans Canosa
+waangrthcoofthwera1,Wallace and Gromit The Course of the Were Rabbit,2,39,2005,6,9,UK,Frontier Developments,
+waangrthcoofthwera2,Wallace and Gromit Auf der Jagd nach dem Riesenkaninchen,2,39,2005,1,8,US,DreamWorks ,Steve Box
+cobrhomieile,Corpse Bride Hochzeit mit einer Leiche,2,39,2005,1,8,US,Warner Bros,Tim Burton
+mase,Magnificent seven,2,39,2005,1,1,US,Metro Goldwyn Mayer,Kenneth Glenaan
+sisi,Sixty Six,2,40,2006,1,6,US,First Independent Pictures,Paul Weiland
+swtodetebaaudeflst,Sweeney Todd Der teuflische Barbier aus der Fleet Street,2,41,2007,1,4,US,Paramount Pictures,Tim Burton
+tedier,Terminator Die Erloesung,2,43,2009,1,1,US,Warner Bros,Joseph McGinty Nichol
+enid,Enid,2,43,2009,1,2,US,BBC,James Hawes
+degr,Der Grueffelo,2,43,2009,1,8,US,BBC,Max Lang
+alimwu,Alice im Wunderland,2,44,2010,1,5,US,Walt Disney,Tim Burton
+thkisp,The Kings Speech ,2,44,2010,1,2,US,Weinstein Co,Tom Hooper
+toast,Toast,2,44,2010,1,6,UK,Wtwo Media,S J Clarkson
+litosh,Lifes too short,2,45,2011,2,6,UK,Blink Entertainment,Ricky Gervais
+dagr,Das Grueffelokind,2,45,2011,1,8,US,BBC,Uwe Heidschoetter
+ruwaouofthga,Rufus Wainwright Out of the game,2,46,2012,5,9,US,Decca Records,Philip Andelman
+dash,Dark Shadows,2,46,2012,1,4,UK,Warner Bros ,Tim Burton
+ath,A Therapy,2,46,2012,1,6,ITA,Prada,Roman Polanski
+lemi,Les Miserables,2,46,2012,1,9,US,Universal Pictures,Tom Hooper
+thlora,The Lone Ranger,2,47,2013,1,1,US,Walt Disney,Gore Verbinski
+buunta,Burton und Taylor,2,47,2013,1,2,US,BBC,Richard Laxton
+dikametr,Die Karte meiner Traeume,2,47,2013,1,1,US,Weinstein Co,Jean Pierre Jeunet
+maanspbeinmaansp,Marks and Spencer Believe in Magic and Sparkle,2,47,2013,1,9,,,Johan Renck
+cinderella,Cinderella,2,49,2015,1,9,US,Walt Disney,Kenneth Branagh
+sutastwo,Suffragette Taten statt Worte,2,49,2015,1,2,US,Focus Features,Sarah Gavron
+alimwuhidesp,Alice im Wunderland Hinter den Spiegeln,2,50,2016,1,5,US,Walt Disney,James Bobin
+loni,Love Nina,2,50,2016,2,2,US,BBC,S J Clarkson
+poap,Poles Apart,2,51,2017,1,2,UK,NFTS,Paloma Baeza
+elanco,Eleanor and Colette,2,51,2017,1,2,DE,Elsani Film,Bille August
+ststanamhe,Stg Stubby An American Hero,2,52,2018,1,9,US,Fun Academy Motion Pictures,Richard Lanni
+ocei,Oceans Eight,2,52,2018,1,6,US,Warner Bros ,Gary Ross
+blopfodeofthni,Black Ops four Dead of the Night,2,52,2018,6,9,US,Treyarch,Jason Blundell
+dedukraedewi,Der dunkle Kristall Aera des Widerstands,2,53,2019,2,5,US,Jim Henson Company,
+emfohilojo,E M Forster His longest Journey,2,53,2019,1,7,US,,Adrian Munsey
+dfthgrsoca,DFS The Great Sofa Caper,2,53,2019,1,8,US,DreamWorks ,Magdalena Osinska
+drve,Dragonheart Vengeance,2,54,2020,1,5,US,Raffaela Productions,Ivan Silvestrini
+ciqudafohe,Cinema Quarantina Das Fone Hell,2,54,2020,1,9,,,Sam Neill
+enho,Enola Holmes,2,54,2020,1,9,US,Warner Bros ,Harry Bradbeer
+thcr,The Crown,2,53,2019,2,2,US,Sony Pictures ,Christian Schwochow
+clown,Clown,2,54,2020,1,4,,,Luigi Berio
+thcl,The Cleaner,2,55,2021,2,6,US,CBS,Les Mayfield
+thho,The House,2,56,2022,1,6,UK,Nexus Studios,Paloma Baeza
+tepe,Ten Percent,2,56,2022,2,6,US,Bron Studios,Sam Leifer
+enho2,Enola Holmes 2,2,56,2022,1,9,US,Warner Bros ,Harry Bradbeer
+apwasesiitaldoth,Apple Watch Series six It already does that,2,54,2020,3,9,UK,Apple,
+bradbrneda,Bryan Adams Brand New Day,2,49,2015,5,9,UK,Polydor,Bryan Adams
+wiba,Wild Babys,2,56,2022,2,7,US,Netflix,
+nolly,Nolly,2,56,2023,2,2,UK,Quay Street Productions ,
+aren,Artisan Entertainment,2,,,9,,,,
+thinkfilm,ThinkFilm,2,,,9,,,,
+papi,Paramount Pictures,2,,,9,,,,
+hbo,HBO Films,2,,,9,,,,
+cbs,CBS,2,,,9,,,,
+copi,Columbia Pictures,2,,,9,,,,
+wabr,Warner Bros ,2,,,9,,,,
+fafi,Fabrication Films,2,,,9,,,,
+frde,Frontier Developments,2,,,9,,,,
+fiinpi,First Independent Pictures,2,,,9,,,,
+unpi,Universal Pictures,2,,,9,,,,
+wadi,Walt Disney,2,,,9,,,,
+weco,Weinstein CO,2,,,9,,,,
+cafi,Carnival Films,2,,,9,,,,
+fofe,Focus Features,2,,,9,,,,
+nfts,NFTS,2,,,9,,,,
+elfi,Elsani Films,2,,,9,,,,
+fuacmopi,Fun Academy Motion Pictures,2,,,9,,,,
+jiheco,Jim Henson Company,2,,,9,,,,
+rapr,Raffaela Productions,2,,,9,,,,
+sopi,Sony Pictures ,2,,,9,,,,
+brst,Bron Studios,2,,,9,,,,
+qustpr,Quay Street Productions,2,,,9,,,,
+wtme,Wtwo Media,2,,,9,,,,
+blen,Blink Entertainment,2,,,9,,,,
+prada,Prada,2,,,9,,,,
+nest,Nexus Studios,2,,,9,,,,
+apple,Apple,2,,,9,,,,
+polydor,Polydor,2,,,9,,,,
+treyarch,Treyarch,2,,,9,,,,
+dere,Decca Records,2,,,9,,,,
+tibu,Tim Burton,1,,,8,,,,
+daat,David Atkins,1,,,8,,,,
+gade,Gaby Dellal,1,,,8,,,,
+thosu,Thaddeus O Sullivan,1,,,8,,,,
+mipe,Michael Petroni,1,,,8,,,,
+mija,Mick Jackon,1,,,8,,,,
+petr,Pete Travis,1,,,8,,,,
+brsi,Brad Silberling,1,,,8,,,,
+hacan,Hans Canosa,1,,,8,,,,
+kegl,Kenneth Glenaan,1,,,8,,,,
+pawe,Paul Weiland,1,,,8,,,,
+toho,Tom Hooper,1,,,8,,,,
+jaha,James Hawes,1,,,8,,,,
+mala,Max Lang,1,,,8,,,,
+sjcl,S J Clarkson,1,,,8,,,,
+uwhe,Uwe Heidschoetter,1,,,8,,,,
+phan,Philip Andelman,1,,,8,,,,
+ropo,Roman Polanski,1,,,8,,,,
+gove,Gore Verbinski,1,,,8,,,,
+rila,Richard Laxton,1,,,8,,,,
+jepije,Jean Pierre Jeunet,1,,,8,,,,
+jore,Johann Renck,1,,,8,,,,
+kebr,Kenneth Branagh,1,,,8,,,,
+sagr,Sarah Gravon,1,,,8,,,,
+jabo,James Bobin,1,,,8,,,,
+paba,Paloma Baeza,1,,,8,,,,
+biau,Bille August,1,,,8,,,,
+rilan,Richard Lanni,1,,,8,,,,
+garo,Gary Ross,1,,,8,,,,
+jabl,Jason Blundell,1,,,8,,,,
+admu,Adrian Munsey,1,,,8,,,,
+maos,Magdalena Osinska,1,,,8,,,,
+ivsi,Ivan Silvestrini,1,,,8,,,,
+habr,Harry Bradbeer,1,,,8,,,,
+chsc,Christian Schwochow,1,,,8,,,,
+lube,Luigi Bewio,1,,,8,,,,
+sale,Sam Leifer,1,,,8,,,,
+brad,Bryan Adams,1,,,8,,,,
+sane,Sam Neill,1,,,8,,,,
+lema,Les Mayfield,1,,,8,,,,
+jomc,Joseph McGinty Nichol,1,,,8,,,,
+thplwhiwrdr,The Play What I Wrote,2,13,2002,4,6,UK,West End,
+famtwu,Foley and Mccoll This Way Up,2,16,2005,1,6,UK,BBC,Ed Bye
+extras,Extras,2,17,2006,2,6,UK,BBC,Ricky Geravis
+debo,December Boys,2,18,2007,1,2,AUS,Film Finance Corporation Australia,Rod Hardy
+equus,Equus,2,18,2007,4,2,UK,West End,
+myboja,My Boy Jack,2,18,2007,1,2,UK,Ecosse Films,Brian Kirk
+disi22,Die Simpsons,2,21,2010,2,8,US,20th Century Studios,Bob Anderson
+hotosuinbuwiretr,How to Suceed in Business Without Really Trying,2,22,2011,4,6,US,Broadway,
+thwoinbl,The Woman in Black,2,23,2012,1,4,UK,Hammer Films,James Watkins
+roch,Robot Chicken,2,23,2012,2,8,US,Stoopid Buddy Stoodios,Seth Green
+beginners,Beginners,2,23,2012,5,9,UK,Slow Club,Lucy Needs
+ayodo,A Young Doctors Notebook,2,23,2012,2,2,UK,Big Talk Productions,
+kiyoda,Kill your Darlings,2,24,2013,1,2,US,Killer Films,John Krokidas
+thfwo,The F-Word,2,24,2013,1,6,CAN,Caramel Film,Michael Dowse
+horns,Horns,2,24,2013,1,3,US,Red Granite Pictures,Alexandre Aja
+thcrofinUK,The Cripple of Inishmaan,2,24,2013,4,6,UK,West End,
+thcrofinUS,The Cripple of Inishmaan,2,25,2014,4,6,US,West End,
+disi25,Die Simpsons,2,25,2014,2,8,US,20th Century Studios,Matthew Schofield
+trainwreck,Trainwreck,2,26,2015,1,6,US,Apatow Productions,Judd Apatow
+bojaho2,BoJack Horseman,2,26,2015,2,8,US,Tornate Co,Ralph Bob Waksberg
+thga,The Gamechanger,2,26,2015,1,7,UK,ReFuel Productions,Loui Psihoyos
+vifr,Victor Frankenstein,2,26,2015,1,4,UK,20th Century Studios,Paul McGuigan
+noyoseme2,Now You See Me 2,2,27,2016,1,1,US,Lions Gate Entertainment,John M Chu
+imperium,Imperium,2,27,2016,1,7,US,Grindstone Entertainment Group LLC,Daniel Ragussis
+swarma,Swiss Army Man,2,27,2016,1,6,US,Cold Iron Pictures,Dan Kwan
+loinlo,Lost in London,2,28,2017,1,6,US,Tiberius Film,Woody Harrelson
+jungle,Jungle,2,28,2017,1,1,AUS,Momentum Pictures,Greg McLean
+roanguarde,Rosencrantz & Guildenstern are Dead,2,28,2017,4,6,UK,Old Vic Theatre,David Leveaux
+beofbu,Beast of Burden,2,29,2018,1,1,US,Momentum Pictures,Jesper Granslandt
+thliofafa,The Lifespan of a Fact,2,29,2018,4,6,US,,
+playmobil,Playmobil,2,30,2019,1,8,FR,STX Films,Lino DiSalvo
+bojaho6,BoJack Horseman,2,30,2019,2,8,US,Tornate Co,Ralph Bob Waksberg
+miwo1,Miracle Workers,2,30,2019,2,6,US,Broadway,Simon Rich
+guak,Guns Akimbo,2,30,2019,1,1,DE,Altitude Film Entertainment,Jason Howden
+miwo2,Miracle Workers,2,31,2020,2,6,US,Broadway,Simon Rich
+esfrpr,Escape from Pretonia,2,31,2020,1,7,UK,Footprints Film,Francis Annan
+unkisc,Unbreakable Kimmy Schmidt,2,31,2020,2,6,US,3 Arts Entertainment,Robert Carlock
+endgame,Endgame,2,31,2020,4,2,UK,Old Vic Theatre,
+miwo3,Miracle Workers,2,32,2021,2,6,US,Broadway,Simon Rich
+thloci,The Lost City,2,33,2022,1,1,UK,Paramount Pictures,Aaron Nee
+prco,Profession Comedien,2,33,2022,2,6,FR,,
+weird,Weird,2,33,2022,1,7,US,Funny or Die,Eric Appel
+rianmo,Rick and Morty,2,33,2022,2,8,US,Williams Street,Dan Harmon
+danielra,Daniel Radcliffe,1,,1989,7,,,,
+ween,West End,2,,,9,,,,
+fificoau,Film Finance Corporation Australia,2,,,9,,,,
+ecfi,Ecosse Films,2,,,9,,,,
+broadway,Broadway,2,,,9,,,,
+hafi,Hammer Filme,2,,,9,,,,
+stbust,Stoopid Buddy Stoodios,2,,,9,,,,
+slcl,Slow Club,2,,,9,,,,
+kifi,Killer Films,2,,,9,,,,
+cafil,Caramel Film,2,,,9,,,,
+regrpi,Red Granite Pictures,2,,,9,,,,
+appr,Apatow Productions,2,,,9,,,,
+repr,ReFuel Productions,2,,,9,,,,
+ligaen,Lions Gate Entertainment,2,,,9,,,,
+grengrllc,Grindstone Entertainment Group LLC,2,,,9,,,,
+coirpi,Cold Iron Pictures,2,,,9,,,,
+tifi,Tiberius Film,2,,,9,,,,
+mopi,Momentum Pictures,2,,,9,,,,
+stxfi,STX Films,2,,,9,,,,
+fuordi,Funny or Die,2,,,9,,,,
+wist,Williams Street,2,,,9,,,,
+toco,Tornate Co,2,,,9,,,,
+bitapr,Big Talk Productions,2,,,9,,,,
+edby,Ed Bye,1,,,8,,,,
+roha,Rod Hardy,1,,,8,,,,
+brki,Brian Kirk,1,,,8,,,,
+boan,Bob Anderson,1,,,8,,,,
+jawa,James Watkins,1,,,8,,,,
+segr,Seth Green,1,,,8,,,,
+lune,Lucy Needs,1,,,8,,,,
+jokr,John Krokidas,1,,,8,,,,
+mido,Michael Dowse,1,,,8,,,,
+alaj,Alexandre Aja,1,,,8,,,,
+masc,Matthew Schofield,1,,,8,,,,
+juap,Judd Apatow,1,,,8,,,,
+lops,Loui Psihoyos,1,,,8,,,,
+pamcgu,Paul McGuigan,1,,,8,,,,
+jomch,John M Chu,1,,,8,,,,
+dara,Daniel Ragussis,1,,,8,,,,
+dakw,Dan Kwan,1,,,8,,,,
+woha,Woody Harrelson,1,,,8,,,,
+grmcle,Greg McLean,1,,,8,,,,
+dale,David Leveaux,1,,,8,,,,
+jegr,Jesper Granslandt,1,,,8,,,,
+lidisa,Lino DiSalvo,1,,,8,,,,
+siri,Simon Rich,1,,,8,,,,
+jaho,Jason Howden,1,,,8,,,,
+fran,Francis Annan,1,,,8,,,,
+roca,Robert Carlock,1,,,8,,,,
+aane,Aaron Nee,1,,,8,,,,
+erap,Eric Appel,1,,,8,,,,
+danha,Dan Harmon,1,,,8,,,,
+rabowa,Ralph Bob Waksberg,1,,,8,,,,
+altfilment,Altitude Film Entertainment,1,,,9,,,,
+footfilm,Footprints Film,1,,,9,,,,
+3artent,3 Arts Entertainment,1,,,9,,,,
+gaol,Gary Oldman,1,,,8,,,,
+noba,Nobodys Baby,2,43,2001,1,6,US,Nu Image,David Seltzer
+hannibal,Hannibal,2,43,2001,1,4,US,Metro Goldwyn Mayer,Ridley Scott
+friends,Friends,2,43,2001,2,6,US,Warner Bros ,James Burrows
+in60,Interstate 60,2,44,2002,1,6,UK,Seven Arts Entertainment,Bob Gale
+grthbu,Greg the Bunny,2,44,2002,2,6,US,20th Century Fox,Carlton Cuse
+bethdef,Beat the Devil,2,44,2002,1,1,UK,Romulus Films,Tony Scott
+tiptoes,Tiptoes,2,44,2002,1,9,FRA,Studio Canal,Matthew Bright
+meofho,Medal of Honor,2,45,2003,6,9,US,Dream Works,
+trcrstofla,True Crime Streets of LA,2,45,2003,6,9,US,Activision,
+sidetohakege,Sin Der Tod hat kein Gewissen,2,45,2003,1,2,US,Singular Pictures,Michael Stevens
+whky,Whos Kyle,2,46,2004,1,9,,,Gerald Emerick
+babe,Batman Begins,2,47,2005,1,1,US,Warner Bros,Christopher Nolan
+defi,Dead Fish,2,47,2005,1,1,,,Charley Standler
+badijabe,Backwoods Die Jagd beginnt,2,48,2006,1,3,ESP,Filmax International,Koldo Serra
+thleofspanebe,The Legend of Spyro A New Beginning,2,48,2006,6,9,US,Vivendi Universal Games,
+thleofspthetni1,The Legend of Spyro The Eternal Night ,2,49,2007,2,9,AUS,Krome Studios,
+theleofspthetni2,The Legend of Spyro The Eternal Night,2,49,2007,6,9,US,Vivendi Universal Games,
+thdani,The Dark Night,2,50,2008,1,1,US,Warner Bros ,Christopher Nolan
+thleofspdaofthdr,The Legend of Spyro Dawn of the Dragon ,2,50,2008,6,9,US,Vivendi Universal Games,
+caofduwoatwa,Call of Duty Worlds at War,2,50,2008,6,9,US,Infinity Ward Treyarch Sledgehammer Games,
+goto,Gothman Tonight,2,50,2008,2,1,,,Christopher Nolan
+thun,The Unborn,2,51,2009,1,4,US,Platinum Dunes,David S Goyer
+donogosethpesl,Do Not Go See The Perfect Sleep,2,51,2009,1,1,,,Jeremy Alter
+rafa,Rain Fall,2,51,2009,1,1,US,3 Dogs and a Pony,Max Mannix
+frwevosc,Frohe Weihnachten von Scrooge,2,51,2009,1,9,,,Robert Zemeckis
+pl51,Planet 51,2,51,2009,1,6,ESP,Skydance Animation Madrid,Jorge Blanco
+thboofel,The Book of Eli,2,52,2010,1,1,US,Alcon Entertainment,Albert Hughes
+caofdublop,Call of Duty Black Ops,2,52,2010,6,9,US,Infinity Ward Treyarch Sledgehammer Games,
+bethca,Behind the Carol,2,52,2010,1,9,,,Robert Zemeckis
+reriho,Red Riding Hood ,2,53,2011,1,4,US,Warner Bros ,Catherine Hardwicke
+kufupa,Kung Fu Panda ,2,53,2011,1,8,US,Dream Works ,Jennifer Yuh Nelson
+titasosp,Tinker Tailor Soldier Spy,2,54,2012,1,9,FRA,Studio Canal,Tomas Alfredson
+lawless,Lawless,2,54,2012,1,2,US,Annapurna Pictures,John Hillcoat
+thdaniri,The Dark Night Rises,2,54,2012,1,1,US,Warner Bros ,Christopher Nolan
+guangi,Guns and Girls,2,54,2012,1,3,UK,Freefall Films,Michael Winnick
+dabothneda,David Bowie The Next Day,2,55,2013,5,9,US,Columbia Records,Floria Sigismondi
+paranoia,Paranoia,2,55,2013,1,3,US,Global Road Entertainment,Robert Luketic
+lapemo,La Petite Mort,2,55,2013,1,9,,,Alex Prager
+robocop,RoboCop,2,56,2014,1,1,US,Orion Pictures Corporation,Paul Verhoeven
+pldeafre,Planet der Affen Revolution,2,56,2014,1,1,US,20th Century Fox,Matt Reeves
+ki44,Kind 44,2,57,2015,1,3,US,Summit Entertainment,Daniel Espinosa
+mado,Man Down,2,57,2015,1,9,US,Krannel Pictures,Dito Montiel
+ledi,Lego Dimensions,2,57,2015,6,9,UK,TT Games,
+dajepr,Das Jerico Projekt,2,58,2016,1,1,US,Nu Image,Ariel Vromen
+destsona,Den Sternen so nah,2,59,2017,1,2,CHN,Huayi Brothers,Peter Chelsom
+kibo,Killers Bodyguard,2,59,2017,1,6,US,Nu Image,Patrick Hughes
+didust,Die dunkelste Stunde,2,59,2017,1,9,UK,Working Title Films,Joe Wright
+thhibo,The Hitmans Bodyguard,2,59,2017,1,6,US,Nu Image,Patrick Hughes
+huki,Hunter Killer,2,60,2018,1,1,US,Nu Image,Donovan Marsh
+tau,Tau,2,60,2018,1,3,US,Kaos Theory Entertainment,Frederica D alessandro
+kian,Killers Anonymous,2,61,2019,1,1,US,Posterity Pictures,Martin Owen
+thsh,The Ship ,2,61,2019,1,4,US,Tucker Tooley Entertainment,Michael Goi
+dige,Die Geldwaescherei,2,61,2019,1,2,US,Netflix,Steven Soderbergh
+thco,The Courier,2,61,2019,1,3,US,FilmNation Entertainment,Zackary Adler
+thwointhwi,The Woman in the Window,2,62,2020,1,3,US,Netflix,Joe Wright
+aplamthde,A Place Among the Dead,2,62,2020,1,4,US,Miss Juliet Productions,Juliet Landau
+mank,Mank,2,62,2020,1,6,US,Netflix,David Fincher
+chrisis,Chrisis,2,63,2021,1,3,UK,Bideford Productions,Nicholas Jarecki
+kibo2,Killers Bodyguard 2,2,63,2021,1,6,US,Nu Image,Patrick Hughes
+slho,Slow Horses,2,64,2022,1,3,UK,See-Saw Films,
+jawhun,Jack White Unstaged ,2,54,2012,5,9,US,American Express,Gary Oldman
+thpabo,The Patience Bossa,2,46,2004,5,9,,,Gary Oldman
+nuim,Nu Image,,,,9,,,,
+mgm,Metro Goldwyn Mayer,,,,9,,,,
+searen,Seven Arts Entertainment,,,,9,,,,
+20cefo,20th Century Fox,,,,9,,,,
+rofi,Romulus Films,,,,9,,,,
+stca,StudioCanal,,,,9,,,,
+drwo,Dream Works,,,,9,,,,
+activision,Activision,,,,9,,,,
+sipi,Singular Pictures,,,,9,,,,
+fiin,Filmax International,,,,9,,,,
+viunga,Vivendi Universal Games,,,,9,,,,
+krst,Krome Studios,,,,9,,,,
+inwatrslga,Infinity Ward Treyarch Sledgehammer Games,,,,9,,,,
+pldu,Platinum Dunes,,,,9,,,,
+3doanapo,3 Dogs and a Pony,,,,9,,,,
+skanma,Skydance Animation Madrid,,,,9,,,,
+alen,Alcon Entertainment,,,,9,,,,
+anpi,Annapurna Pictures,,,,9,,,,
+frfi,Freefall Films,,,,9,,,,
+core,Columbia Records,,,,9,,,,
+glroen,Global Road Entertainment,,,,9,,,,
+orpico,Orion Pictures Corporation,,,,9,,,,
+suen,Summit Entertainment,,,,9,,,,
+krpi,Krannel Pictures,,,,9,,,,
+ttga,TT Games,,,,9,,,,
+hubr,Huayi Brothers,,,,9,,,,
+wotifi,Working Title Films,,,,9,,,,
+kathen,Kaos Theory Entertainment,,,,9,,,,
+popi,Posterity Pictures,,,,9,,,,
+tutoen,Tucker Tooley Entertainment,,,,9,,,,
+netflix,Netflix,,,,9,,,,
+finaen,Film Nation Entertainment,,,,9,,,,
+mijupr,Miss Juliet Production,,,,9,,,,
+bipr,Bideford Productions,,,,9,,,,
+sesafi,See-Saw Films,,,,9,,,,
+amex,American Express,,,,9,,,,
+dase,David Seltzer,,,,8,,,,
+risc,Ridley Scott,,,,8,,,,
+jabu,James Burrows,,,,8,,,,
+boga,Bob Gale,,,,8,,,,
+cacu,Carlton Cuse,,,,8,,,,
+tosc,Tony Scott,,,,8,,,,
+mabr,Matthew Bright,,,,8,,,,
+mist,Michael Stevens,,,,8,,,,
+geem,Gerald Emerick,,,,8,,,,
+chno,Christopher Nolan,,,,8,,,,
+chst,Charley Standler,,,,8,,,,
+kose,Koldo Serra,,,,8,,,,
+dasgo,David S Goyer,,,,8,,,,
+jeal,Jeremy Alter,,,,8,,,,
+mama,Max Mannix,,,,8,,,,
+roze,Robert Zemeckis,,,,8,,,,
+jobl,Jorge Blanco,,,,8,,,,
+alhu,Albert Hughes,,,,8,,,,
+chha,Catherine Hardwicke,,,,8,,,,
+jeyune,Jennifer Yuh Nelson,,,,8,,,,
+toal,Tomas Alfredson,,,,8,,,,
+johi,John Hillcoat,,,,8,,,,
+miwi,Michael Winnick,,,,8,,,,
+flsi,Floria Sigismondi,,,,8,,,,
+rolu,Robert Luketic,,,,8,,,,
+alpr,Alex Prager,,,,8,,,,
+pave,Paul Verhoegen,,,,8,,,,
+mare,Matt Reeves,,,,8,,,,
+daes,Daniel Espinosa,,,,8,,,,
+dimo,Dito Montiel,,,,8,,,,
+arvr,Ariel Vromen,,,,8,,,,
+pech,Peter Chelsom,,,,8,,,,
+pahu,Patrick Hughes,,,,8,,,,
+doma,Donovan Marsh,,,,8,,,,
+frdal,Frederica D alessandro,,,,8,,,,
+maow,Martin Owen,,,,8,,,,
+migo,Michael Goi,,,,8,,,,
+stso,Steven Soderbergh,,,,8,,,,
+zaad,Zackary Adler,,,,8,,,,
+jowr,Joe Wright,,,,8,,,,
+jula,Juliet Landau,,,,8,,,,
+dafi,David Fincher,,,,8,,,,
+nija,Nicholas Jarecki,,,,8,,,,
+male,Matthew Lewis,1,,,7,,,,
+niofthlode,Night of the Loving Dead,2,23,2012,1,6,UK,National Film and Television School NFTS,Anna Humphries
+thsy,The Syndicate,2,23,2012,2,2,UK,Rollem Productions,
+thri,The Rise,2,23,2012,1,3,UK,Moli-Mischief,Rowan Atahle
+oubo,Our Boys,2,23,2012,4,2,UK,,David Grindley
+thswsh,The Sweet Shop,2,24,2013,1,2,UK,MWS Films,Ben Myers
+deinpa,Death in Paradise,2,26,2015,2,6,UK,Red Planet Pictures,Richard Signy
+bl42,Bluestone 42,2,24,2013,2,6,UK,BBC British Broadcasting Corporation,
+hava,Happy Valley,2,27,2016,2,3,UK,Red Production Company,Sally Wainwright
+jurem,Juliet Remembered,2,27,2016,1,2,UK,JSB Films,Tamzin Merchant
+eigahaja,Ein ganzes halbes Jahr,2,27,2016,1,2,US,Metro Goldwyn Mayer MGM,Thea Sharrock
+rist,Ripper Street,2,27,2016,2,2,UK,Tiger Aspect Production,
+drhiuk,Drunk History UK,2,28,2017,2,6,UK,Comedy Central,Tom McKay
+girlfriends,Girlfriends,2,29,2018,2,2,UK,Rollem Productions,Dominic Leclerc
+terminal,Terminal,2,29,2018,1,6,US,Beagle Pug Films,Vaughn Stein
+nuni,Nutritiously Nicola,2,29,2018,2,6,UK,Double Yay Productions,Osagie Samuel
+bado,Baby Done,2,31,2020,1,6,NZ,Piki Films,Curtis Vowell
+dedoundalivi,Der Doktor und das liebe Vieh,2,31,2020,2,6,UK,Playground Entertainment,Andy Hay
+attitude,Attitude,2,25,2015,6,9,UK,Attitude,
+nafiantesc,National Film and Television School NFTS,2,,,9,,,,
+ropr,Rollem Productions,2,,,9,,,,
+momi,Moli-Mischief,2,,,9,,,,
+mws,MWS Films,2,,,9,,,,
+replpi,Red Planet Pictures,2,,,9,,,,
+reprco,Red Production Company,2,,,9,,,,
+jsb,JSB Films,2,,,9,,,,
+tiaspr,Tiger Aspect Production,2,,,9,,,,
+coce,Comedy Central,2,,,9,,,,
+bepufi,Beagle Pug Films,2,,,9,,,,
+doyapr,Double Yay Productions,2,,,9,,,,
+pifi,Piki Films,2,,,9,,,,
+plen,Playground Entertainment,2,,,9,,,,
+anhu,Anna Humphries,1,,,8,,,,
+roata,Rowan Atahle,1,,,8,,,,
+dagri,David Grindley,1,,,8,,,,
+bemy,Ben Myers,1,,,8,,,,
+risi,Richard Signy,1,,,8,,,,
+sawa,Sally Wainwright,1,,,8,,,,
+tame,Tamzin Merchant,1,,,8,,,,
+thsha,Thea Sharrock,1,,,8,,,,
+tomc,Tom McKay,1,,,8,,,,
+dole,Dominic Leclerc,1,,,8,,,,
+vast,Vaughn Stein,1,,,8,,,,
+ossa,Osagie Samuel,1,,,8,,,,
+cuvo,Curtis Vowell,1,,,8,,,,
+anha,Andy Hay,1,,,8,,,,
