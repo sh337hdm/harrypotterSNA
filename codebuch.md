@@ -134,7 +134,7 @@ No one left to blame -> id: noonletobl
 
 **2. Genres von imbd ** 
 
-Die Genre der Filme werden von imbd genutzt. Nur wenn sich dort keine finden lassen, dürfen auch welche von anderen Plattformen eingetragen werden.
+Die Genres der Filme werden von imbd genutzt. Nur wenn sich dort keine finden lassen, dürfen auch welche von anderen Plattformen eingetragen werden.
 
 **3. Produktionsstudios ** 
 
