@@ -1,10 +1,10 @@
 id,name,type,age,year,sector,genre,land,Produktionsfirma,Regie
 francr,Friends & Crocodiles,2,16,2005,1,2,UK,BBC One,Stephen Poliakoff
-merlin,Merlin ,2,21,2010,2,2,UK,BBC One,Ashley Way
-juwi,Just William,2,21,2010,2,9,UK,BBC One ,Paul Seed
+merlin,Merlin,2,21,2010,2,2,UK,BBC One,Ashley Way
+juwi,Just William,2,21,2010,2,9,UK,BBC One,Paul Seed
 gala,Garrows Law,2,22,2011,2,2,UK,Twenty Twenty,Bryn Higgins
 thmu,The Musketeers,2,27,2016,2,2,UK,BBC One,Susan Tully
-thlociofz,The Lost City of Z ,2,27,2016,1,2,US,Paramount Pictures,James Gray
+thlociofz,The Lost City of Z,2,27,2016,1,2,US,Paramount Pictures,James Gray
 edison,Edison,2,28,2017,1,2,US,The Weinstein Company,Alfonso Gomez-Rejon
 thbaofbusc,The Ballad of Buster Scruggs,2,29,2018,1,2,US,Mike Zoss Productions,Ethan Coen
 thbaofbuscc,The Ballad of Buster Scruggs,2,29,2018,1,2,US,Mike Zoss Productions,Joel Coen
@@ -12,12 +12,12 @@ trautmann,Trautmann,2,29,2018,1,2,UK,Lieblingsfilm,Marcus H. Rosenmüller
 wafothba,Waiting for the Barbarians,2,30,2019,1,2,US,Constantin Film,Ciro Guerra
 thwaofthwo,The War of the Worlds,2,30,2019,2,1,UK,Mammoth Screen,Craig Viveiros
 hidama,His Dark Materials,2,30,2019,2,5,UK,BBC One,Otto Bathurst
-tholgu,The Old Guard ,2,31,2020,1,1,US,Skydance,Gina Prince-Bythewood
+tholgu,The Old Guard,2,31,2020,1,1,US,Skydance,Gina Prince-Bythewood
 thdealthti,The Devil All the Time,2,31,2020,1,3,US,Bronx Moving Co.,Antonio Campos
 sayopr,Say Your Prayers,2,31,2020,1,6,UK,Gravitas Ventures,Harry Michell
 thquga,The Queen´s Gambit,2,31,2020,2,2,US,Netflix,Scott Frank 
 thtrofma,The Tragedy of Macbeth,2,32,2021,1,2,US,A24,Joel Coen
-plbapl,Please Baby Please ,2,33,2022,1,9,US,Rivulet Media,Amanda Kramer
+plbapl,Please Baby Please,2,33,2022,1,9,US,Rivulet Media,Amanda Kramer
 thpabley,The Pale Blue Eye,2,33,2022,1,3,US,Cross Creek Pictures,Scott Cooper
 hame,Harry Melling,,,,7,,,,
 stpo,Stephen Poliakoff,,,,8,,,,
@@ -37,7 +37,7 @@ otba,Otto Bathurst,,,,8,,,,
 giprby,Gina Prince-Bythewood,,,,8,,,,
 anca,Antonio Campos,,,,8,,,,
 hami,Harry Michell,,,,8,,,,
-scfr,Scott Frank ,,,,8,,,,
+scfr,Scott Frank,,,,8,,,,
 amkr,Amanda Kramer,,,,8,,,,
 scco,Scott Cooper,,,,8,,,,
 elar,Electronic Arts,,,,9,,,,
@@ -319,10 +319,10 @@ lifrba,Live from Baghdad,2,36,2002,1,2,US,HBO Films,Mick Jackson
 hevi,Henry VIII,2,37,2003,2,2,US,CBS,Pete Travis
 bifi,Big Fish,2,37,2003,1,5,US,Columbia Pictures,Tim Burton
 lesn,Lemony Snicket,2,38,2004,1,6,US,DreamWorks,Brad Silberling
-chundisc,Charlie und die Schokoladenfabrik,2,39,2005,1,5,US,Warner Bros ,Tim Burton
+chundisc,Charlie und die Schokoladenfabrik,2,39,2005,1,5,US,Warner Bros,Tim Burton
 cowiotwo,Conversations with other Women,2,39,2005,1,9,US,Fabrication Films,Hans Canosa
 waangrthcoofthwera1,Wallace and Gromit The Course of the Were Rabbit,2,39,2005,6,9,UK,Frontier Developments,
-waangrthcoofthwera2,Wallace and Gromit Auf der Jagd nach dem Riesenkaninchen,2,39,2005,1,8,US,DreamWorks ,Steve Box
+waangrthcoofthwera2,Wallace and Gromit Auf der Jagd nach dem Riesenkaninchen,2,39,2005,1,8,US,DreamWorks,Steve Box
 cobrhomieile,Corpse Bride Hochzeit mit einer Leiche,2,39,2005,1,8,US,Warner Bros,Tim Burton
 mase,Magnificent seven,2,39,2005,1,1,US,Metro Goldwyn Mayer,Kenneth Glenaan
 sisi,Sixty Six,2,40,2006,1,6,US,First Independent Pictures,Paul Weiland
@@ -331,12 +331,12 @@ tedier,Terminator Die Erloesung,2,43,2009,1,1,US,Warner Bros,Joseph McGinty Nich
 enid,Enid,2,43,2009,1,2,US,BBC,James Hawes
 degr,Der Grueffelo,2,43,2009,1,8,US,BBC,Max Lang
 alimwu,Alice im Wunderland,2,44,2010,1,5,US,Walt Disney,Tim Burton
-thkisp,The Kings Speech ,2,44,2010,1,2,US,Weinstein Co,Tom Hooper
+thkisp,The Kings Speech,2,44,2010,1,2,US,Weinstein Co,Tom Hooper
 toast,Toast,2,44,2010,1,6,UK,Wtwo Media,S J Clarkson
 litosh,Lifes too short,2,45,2011,2,6,UK,Blink Entertainment,Ricky Gervais
 dagr,Das Grueffelokind,2,45,2011,1,8,US,BBC,Uwe Heidschoetter
 ruwaouofthga,Rufus Wainwright Out of the game,2,46,2012,5,9,US,Decca Records,Philip Andelman
-dash,Dark Shadows,2,46,2012,1,4,UK,Warner Bros ,Tim Burton
+dash,Dark Shadows,2,46,2012,1,4,UK,Warner Bros,Tim Burton
 ath,A Therapy,2,46,2012,1,6,ITA,Prada,Roman Polanski
 lemi,Les Miserables,2,46,2012,1,9,US,Universal Pictures,Tom Hooper
 thlora,The Lone Ranger,2,47,2013,1,1,US,Walt Disney,Gore Verbinski
@@ -350,31 +350,31 @@ loni,Love Nina,2,50,2016,2,2,US,BBC,S J Clarkson
 poap,Poles Apart,2,51,2017,1,2,UK,NFTS,Paloma Baeza
 elanco,Eleanor and Colette,2,51,2017,1,2,DE,Elsani Film,Bille August
 ststanamhe,Stg Stubby An American Hero,2,52,2018,1,9,US,Fun Academy Motion Pictures,Richard Lanni
-ocei,Oceans Eight,2,52,2018,1,6,US,Warner Bros ,Gary Ross
+ocei,Oceans Eight,2,52,2018,1,6,US,Warner Bros,Gary Ross
 blopfodeofthni,Black Ops four Dead of the Night,2,52,2018,6,9,US,Treyarch,Jason Blundell
 dedukraedewi,Der dunkle Kristall Aera des Widerstands,2,53,2019,2,5,US,Jim Henson Company,
 emfohilojo,E M Forster His longest Journey,2,53,2019,1,7,US,,Adrian Munsey
-dfthgrsoca,DFS The Great Sofa Caper,2,53,2019,1,8,US,DreamWorks ,Magdalena Osinska
+dfthgrsoca,DFS The Great Sofa Caper,2,53,2019,1,8,US,DreamWorks,Magdalena Osinska
 drve,Dragonheart Vengeance,2,54,2020,1,5,US,Raffaela Productions,Ivan Silvestrini
 ciqudafohe,Cinema Quarantina Das Fone Hell,2,54,2020,1,9,,,Sam Neill
-enho,Enola Holmes,2,54,2020,1,9,US,Warner Bros ,Harry Bradbeer
-thcr,The Crown,2,53,2019,2,2,US,Sony Pictures ,Christian Schwochow
+enho,Enola Holmes,2,54,2020,1,9,US,Warner Bros,Harry Bradbeer
+thcr,The Crown,2,53,2019,2,2,US,Sony Pictures,Christian Schwochow
 clown,Clown,2,54,2020,1,4,,,Luigi Berio
 thcl,The Cleaner,2,55,2021,2,6,US,CBS,Les Mayfield
 thho,The House,2,56,2022,1,6,UK,Nexus Studios,Paloma Baeza
 tepe,Ten Percent,2,56,2022,2,6,US,Bron Studios,Sam Leifer
-enho2,Enola Holmes 2,2,56,2022,1,9,US,Warner Bros ,Harry Bradbeer
+enho2,Enola Holmes 2,2,56,2022,1,9,US,Warner Bros,Harry Bradbeer
 apwasesiitaldoth,Apple Watch Series six It already does that,2,54,2020,3,9,UK,Apple,
 bradbrneda,Bryan Adams Brand New Day,2,49,2015,5,9,UK,Polydor,Bryan Adams
 wiba,Wild Babys,2,56,2022,2,7,US,Netflix,
-nolly,Nolly,2,56,2023,2,2,UK,Quay Street Productions ,
+nolly,Nolly,2,56,2023,2,2,UK,Quay Street Productions,
 aren,Artisan Entertainment,2,,,9,,,,
 thinkfilm,ThinkFilm,2,,,9,,,,
 papi,Paramount Pictures,2,,,9,,,,
 hbo,HBO Films,2,,,9,,,,
 cbs,CBS,2,,,9,,,,
 copi,Columbia Pictures,2,,,9,,,,
-wabr,Warner Bros ,2,,,9,,,,
+wabr,Warner Bros,2,,,9,,,,
 fafi,Fabrication Films,2,,,9,,,,
 frde,Frontier Developments,2,,,9,,,,
 fiinpi,First Independent Pictures,2,,,9,,,,
@@ -388,7 +388,7 @@ elfi,Elsani Films,2,,,9,,,,
 fuacmopi,Fun Academy Motion Pictures,2,,,9,,,,
 jiheco,Jim Henson Company,2,,,9,,,,
 rapr,Raffaela Productions,2,,,9,,,,
-sopi,Sony Pictures ,2,,,9,,,,
+sopi,Sony Pictures,2,,,9,,,,
 brst,Bron Studios,2,,,9,,,,
 qustpr,Quay Street Productions,2,,,9,,,,
 wtme,Wtwo Media,2,,,9,,,,
@@ -542,7 +542,7 @@ footfilm,Footprints Film,1,,,9,,,,
 gaol,Gary Oldman,1,,,8,,,,
 noba,Nobodys Baby,2,43,2001,1,6,US,Nu Image,David Seltzer
 hannibal,Hannibal,2,43,2001,1,4,US,Metro Goldwyn Mayer,Ridley Scott
-friends,Friends,2,43,2001,2,6,US,Warner Bros ,James Burrows
+friends,Friends,2,43,2001,2,6,US,Warner Bros,James Burrows
 in60,Interstate 60,2,44,2002,1,6,UK,Seven Arts Entertainment,Bob Gale
 grthbu,Greg the Bunny,2,44,2002,2,6,US,20th Century Fox,Carlton Cuse
 bethdef,Beat the Devil,2,44,2002,1,1,UK,Romulus Films,Tony Scott
@@ -555,10 +555,10 @@ babe,Batman Begins,2,47,2005,1,1,US,Warner Bros,Christopher Nolan
 defi,Dead Fish,2,47,2005,1,1,,,Charley Standler
 badijabe,Backwoods Die Jagd beginnt,2,48,2006,1,3,ESP,Filmax International,Koldo Serra
 thleofspanebe,The Legend of Spyro A New Beginning,2,48,2006,6,9,US,Vivendi Universal Games,
-thleofspthetni1,The Legend of Spyro The Eternal Night ,2,49,2007,2,9,AUS,Krome Studios,
+thleofspthetni1,The Legend of Spyro The Eternal Night,2,49,2007,2,9,AUS,Krome Studios,
 theleofspthetni2,The Legend of Spyro The Eternal Night,2,49,2007,6,9,US,Vivendi Universal Games,
-thdani,The Dark Night,2,50,2008,1,1,US,Warner Bros ,Christopher Nolan
-thleofspdaofthdr,The Legend of Spyro Dawn of the Dragon ,2,50,2008,6,9,US,Vivendi Universal Games,
+thdani,The Dark Night,2,50,2008,1,1,US,Warner Bros,Christopher Nolan
+thleofspdaofthdr,The Legend of Spyro Dawn of the Dragon,2,50,2008,6,9,US,Vivendi Universal Games,
 caofduwoatwa,Call of Duty Worlds at War,2,50,2008,6,9,US,Infinity Ward Treyarch Sledgehammer Games,
 goto,Gothman Tonight,2,50,2008,2,1,,,Christopher Nolan
 thun,The Unborn,2,51,2009,1,4,US,Platinum Dunes,David S Goyer
@@ -569,11 +569,11 @@ pl51,Planet 51,2,51,2009,1,6,ESP,Skydance Animation Madrid,Jorge Blanco
 thboofel,The Book of Eli,2,52,2010,1,1,US,Alcon Entertainment,Albert Hughes
 caofdublop,Call of Duty Black Ops,2,52,2010,6,9,US,Infinity Ward Treyarch Sledgehammer Games,
 bethca,Behind the Carol,2,52,2010,1,9,,,Robert Zemeckis
-reriho,Red Riding Hood ,2,53,2011,1,4,US,Warner Bros ,Catherine Hardwicke
-kufupa,Kung Fu Panda ,2,53,2011,1,8,US,Dream Works ,Jennifer Yuh Nelson
+reriho,Red Riding Hood,2,53,2011,1,4,US,Warner Bros,Catherine Hardwicke
+kufupa,Kung Fu Panda,2,53,2011,1,8,US,Dream Works,Jennifer Yuh Nelson
 titasosp,Tinker Tailor Soldier Spy,2,54,2012,1,9,FRA,Studio Canal,Tomas Alfredson
 lawless,Lawless,2,54,2012,1,2,US,Annapurna Pictures,John Hillcoat
-thdaniri,The Dark Night Rises,2,54,2012,1,1,US,Warner Bros ,Christopher Nolan
+thdaniri,The Dark Night Rises,2,54,2012,1,1,US,Warner Bros,Christopher Nolan
 guangi,Guns and Girls,2,54,2012,1,3,UK,Freefall Films,Michael Winnick
 dabothneda,David Bowie The Next Day,2,55,2013,5,9,US,Columbia Records,Floria Sigismondi
 paranoia,Paranoia,2,55,2013,1,3,US,Global Road Entertainment,Robert Luketic
@@ -591,7 +591,7 @@ thhibo,The Hitmans Bodyguard,2,59,2017,1,6,US,Nu Image,Patrick Hughes
 huki,Hunter Killer,2,60,2018,1,1,US,Nu Image,Donovan Marsh
 tau,Tau,2,60,2018,1,3,US,Kaos Theory Entertainment,Frederica D alessandro
 kian,Killers Anonymous,2,61,2019,1,1,US,Posterity Pictures,Martin Owen
-thsh,The Ship ,2,61,2019,1,4,US,Tucker Tooley Entertainment,Michael Goi
+thsh,The Ship,2,61,2019,1,4,US,Tucker Tooley Entertainment,Michael Goi
 dige,Die Geldwaescherei,2,61,2019,1,2,US,Netflix,Steven Soderbergh
 thco,The Courier,2,61,2019,1,3,US,FilmNation Entertainment,Zackary Adler
 thwointhwi,The Woman in the Window,2,62,2020,1,3,US,Netflix,Joe Wright
@@ -600,7 +600,7 @@ mank,Mank,2,62,2020,1,6,US,Netflix,David Fincher
 chrisis,Chrisis,2,63,2021,1,3,UK,Bideford Productions,Nicholas Jarecki
 kibo2,Killers Bodyguard 2,2,63,2021,1,6,US,Nu Image,Patrick Hughes
 slho,Slow Horses,2,64,2022,1,3,UK,See-Saw Films,
-jawhun,Jack White Unstaged ,2,54,2012,5,9,US,American Express,Gary Oldman
+jawhun,Jack White Unstaged,2,54,2012,5,9,US,American Express,Gary Oldman
 thpabo,The Patience Bossa,2,46,2004,5,9,,,Gary Oldman
 nuim,Nu Image,,,,9,,,,
 mgm,Metro Goldwyn Mayer,,,,9,,,,
