@@ -117,6 +117,16 @@ Die (größte) Produktionsfirma des Beitrags
 Vor- und Nachname des Regisseurs
 
 
+**net worth**
+
+Vermögen des Schauspielers in Mio. 
+
+
+**agent**
+
+Aktueller Agent des Schauspielers 
+
+
 
 # Codierregeln: 
 
