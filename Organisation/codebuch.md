@@ -31,6 +31,8 @@ ID der erhaltenden Knoten Schauspieler, Film, Produktionsfirma, Regisseur, Koope
 
 6=Synchronsprecher
 
+7=Agent
+
 # NODE-Attribute
 
 **id**
