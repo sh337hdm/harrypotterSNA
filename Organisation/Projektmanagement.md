@@ -57,7 +57,9 @@ Ralph Fiennes: Finn
 
 Harry Melling: Finn	
 
-James Phelps: Louisa		
+James Phelps: Louisa
+
+Bonnie Wright: Nina
 
 # bis 25.02.2023
 Meilenstein 2: Datenerhebung + Erstellung der Listen + jeder teste seine eigene Liste in R 
