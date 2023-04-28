@@ -1,0 +1,396 @@
+---
+title: "Harry Potter Final"
+author: "Rebecca Mueller, Nina Reischuck, Jonas Brings, Sara Hedrich, Finn Seybold, Louisa Onnasch"
+date: "2023-04-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r Gesamtnetzwerk}
+# Programmbibliothek laden
+library(igraph)
+
+# Einlesen der Edge- und Nodelist
+edges <- read.csv("https://raw.githubusercontent.com/sh337hdm/harrypotterSNA/main/Edgelist_Gesamtnetzwerk.csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/sh337hdm/harrypotterSNA/main/Nodelist_Gesamtnetzwerk.csv", header=T, as.is=T, sep = ",")
+
+# Matrix erstellen
+edgematrix <-as.matrix(edges)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt hp
+hp <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+
+hp
+
+## ist das Netzwerk bereits vereinfacht?
+is.simple(hp)
+
+layout <- layout_with_kk(hp, k = 10000)
+
+#two-mode Netzwerk einfärben
+
+V(hp)[V(hp)$type == 1]$shape <- "circle" #Person
+V(hp)[V(hp)$type == 1]$color <- "blue" 
+V(hp)[V(hp)$type == 2]$shape <- "square" #Organisation
+V(hp)[V(hp)$type == 2]$color <- "lightblue" 
+
+V(hp)[V(hp)$sector == 7]$color <- "red" #Hauptcast
+
+#Visualisierung
+plot(hp,
+     asp=0,
+     layout= layout,
+     vertex.size=2,
+     vertex.label=NA,
+     edge.color="black",
+     zoom=TRUE,
+     main ="Übersicht Gesamtnetzwerk",
+     sub="
+     dunkelblau = Personen
+     hellblau = Keine Personen
+     rot = Hauptdarsteller"
+     )
+```
+
+
+```{r Komponenten & Zentralitätsmaße}
+#Komponeneten
+count_components(hp)
+#2
+
+#Cluster
+clusters(hp)
+#2
+
+#Dichte
+edge_density(hp)
+#0.002579153
+
+## Umfang des Netzwerks
+diameter(hp)
+#12
+
+## Pfaddistanzen 
+farthest_vertices(hp)
+
+#Degree
+
+degree(hp)
+
+which.max(degree(hp))
+#Ralph Fiennes
+
+#Betweenness
+which.max(betweenness(hp))
+#Ralph Fiennes
+
+```
+
+```{r Komponenten}
+
+#Sektoren färben
+V(hp)[V(hp)$sector == 1]$color <- "blue" #Film
+V(hp)[V(hp)$sector == 2]$color <- "green" #Serie
+V(hp)[V(hp)$sector == 3]$color <- "pink" #Werbung
+V(hp)[V(hp)$sector == 5]$color <- "grey" #Musik
+V(hp)[V(hp)$sector == 6]$color <- "white" #Sonstiges
+
+#Komponenten
+hp_comp <- decompose.graph(hp) 
+hp_comp
+
+#Komponenten einteilen
+hp_comp1 <- hp_comp[[1]]
+hp_comp2 <- hp_comp[[2]]
+
+#Visualisierung der kleineren Komponente
+plot(hp_comp2, 
+      asp=0,
+     layout=layout_with_kk,
+     vertex.size=7,
+     vertex.label=V(hp)$names,
+     vertex.label.color="black",
+     edge.color="black",
+     main="kleinere Komponente",
+     sub = "Bonnie Wright")
+```
+
+```{r Cluster-Walktrap-Analyse}
+
+#Cluster
+clusters(hp)
+
+#Walktrap-Analyse
+cl <- cluster_walktrap(hp_comp1)
+modularity(cl)
+
+#Zugehörigkeit
+membership(cl)
+
+#Visualisierung
+plot(cl,hp_comp1,
+layout=layout_with_kk,
+vertex.label=NA,
+vertex.size=5,
+main="Cluster-Walktrap Analyse von hp_comp1")
+```
+```{r Teilnetzwerk Phelps-Brüder}
+
+# Index des Knotens von James Phelps und Oliver (Martyn John) Phelps finden und Knotenfarben festlegen
+node_colors <- rep("orange", vcount(hp))
+james_index <- which(V(hp)$name == "James Phelps")
+oliver_index <- which(V(hp)$name == "Oliver (Martyn John) Phelps")
+node_colors[james_index] <- "red"
+node_colors[oliver_index] <- "red"
+
+# Layout festlegen
+layout <- layout_with_kk(hp, k = 10000)
+
+# Visualisierung
+plot(hp,
+     asp=0,
+     layout= layout,
+     vertex.size=2,
+     vertex.color=node_colors,
+     vertex.label=ifelse(V(hp)$name %in% c("James Phelps", "Oliver (Martyn John) Phelps"), V(hp)$name, NA),
+     vertex.label.color=ifelse(V(hp)$name %in% c("James Phelps", "Oliver (Martyn John) Phelps"), "blue", "orange"),
+     edge.color="black",
+     zoom=TRUE,
+     main ="Phelps-Brüder",
+     )
+```
+
+
+```{r Ego-Netzwerk nach Genre Daniel Radcliffe}
+#degree
+degree(hp, V(hp)$name=="Daniel Radcliffe")
+#44
+
+#Ego Netzwerk erstellen
+dr<- make_ego_graph(hp, order = 1, nodes = V(hp)$name == "Daniel Radcliffe", mode ="all")
+ 
+dr
+ 
+dr1 <- dr[[1]]
+dr1
+
+#Genres färben
+V(dr1)[V(dr1)$genre == 1]$color <- "lightblue" #Action
+V(dr1)[V(dr1)$genre == 3]$color <- "lightgreen" #Thriller
+V(dr1)[V(dr1)$genre == 4]$color <- "purple" #Horror
+V(dr1)[V(dr1)$genre == 2]$color <- "pink" #Drama
+V(dr1)[V(dr1)$genre == 6]$color <- "brown" #Komödie
+V(dr1)[V(dr1)$genre == 7]$color <- "orange" #Doku
+V(dr1)[V(dr1)$genre == 8]$color <- "yellow" #Animation
+V(dr1)[V(dr1)$genre == 9]$color <- "white" #Sonstiges
+ 
+ 
+#Attribute festlegen
+V(dr1)[V(dr1)$type == 1]$shape <- "circle" #Person
+V(dr1)[V(dr1)$type == 2]$shape <- "square" #Organisation
+
+
+#Visualisierung
+plot(dr1,
+ 	asp=0,
+ 	main="Ego-Netzwerk Daniel Radcliffe",
+ 	layout=layout_with_kk,
+ 	vertex.frame.color="black",
+ 	vertex.label.color="black",
+ 	edge.color="black",
+ 	vertex.label.cex=1,
+ 	vertex.size=7,
+ 	vertex.label=V(dr1)$names,
+ 	sub="Projekte nach Genre
+ 	hellblau=Action, hellgrün=Thriller, lila=Horror,
+ 	pink=Drama, braun=Komödie, orange=Doku,
+ 	gelb=Animation, weiß=Sonstiges")
+
+
+```
+
+```{r Ego-Netzwerk nach Projekte und Verbindungen Daniel Radcliffe}
+#Sektoren färben
+V(dr1)[V(dr1)$sector == 1]$color <- "blue" #Film
+V(dr1)[V(dr1)$sector == 2]$color <- "green" #Serie
+V(dr1)[V(dr1)$sector == 3]$color <- "pink" #Werbung
+V(dr1)[V(dr1)$sector == 5]$color <- "grey" #Musik
+V(dr1)[V(dr1)$sector == 6]$color <- "white" #Sonstiges
+
+#Attribute festlegen
+V(dr1)[V(dr1)$type == 1]$shape <- "circle" #Film
+V(dr1)[V(dr1)$type == 2]$shape <- "square" #Serie
+ 
+ 
+plot(dr1,
+ 	asp=0,
+ 	main="Ego-Netzwerk Daniel Radcliffe",
+ 	layout=layout_with_kk,
+ 	edge.arrow.size=.3,
+ 	vertex.frame.color="black",
+ 	vertex.label.color="black",
+ 	edge.color="black",
+ 	vertex.label.cex=1,
+ 	vertex.size=7,
+ 	vertex.label=V(dr1)$names,
+ 	sub="Projekte und Verbindungen
+ 	blau=Film, grün=Serie, pink=Werbung, grau=Musik"
+)
+```
+
+```{r Ego-Netzwerk nach Genre Rupert Grint}
+#degree
+degree(hp, V(hp)$name=="Rupert Grint")
+#25
+ 
+#Ego Netzwerk erstellen
+rg<- make_ego_graph(hp, order = 1, nodes = V(hp)$name == "Rupert Grint", mode ="all")
+ 
+rg
+ 
+rg1 <- rg[[1]]
+rg1
+
+#Genres färben
+V(rg1)[V(rg1)$genre == 1]$color <- "lightblue" #Action
+V(rg1)[V(rg1)$genre == 3]$color <- "lightgreen" #Thriller
+V(rg1)[V(rg1)$genre == 4]$color <- "purple" #Horror
+V(rg1)[V(rg1)$genre == 2]$color <- "pink" #Drama
+V(rg1)[V(rg1)$genre == 6]$color <- "brown" #Komödie
+V(rg1)[V(rg1)$genre == 7]$color <- "orange" #Doku
+V(rg1)[V(rg1)$genre == 8]$color <- "yellow" #Animation
+V(rg1)[V(rg1)$genre == 9]$color <- "white" #Sonstiges
+ 
+ 
+#Attribute festlegen
+V(rg1)[V(rg1)$type == 1]$shape <- "circle" #Person
+V(rg1)[V(rg1)$type == 2]$shape <- "square" #Organisation
+
+
+#Visualisierung
+plot(rg1,
+ 	asp=0,
+ 	main="Ego-Netzwerk Rupert Grint",
+ 	layout=layout_with_kk,
+ 	vertex.frame.color="black",
+ 	vertex.label.color="black",
+ 	edge.color="black",
+ 	vertex.label.cex=1,
+ 	vertex.size=7,
+ 	vertex.label=V(rg1)$names,
+ 	sub="Projekte nach Genre
+ 	hellblau=Action, hellgrün=Thriller, lila=Horror,
+ 	pink=Drama, braun=Komödie, orange=Doku,
+ 	gelb=Animation, weiß=Sonstiges")
+```
+
+```{r Ego-Netzwerk nach Projekte und Verbindungen Rupert Grint}
+#Attribute festlegen
+V(rg1)[V(rg1)$type == 1]$shape <- "circle" #Film
+V(rg1)[V(rg1)$type == 2]$shape <- "square" #Serie
+
+#Sektoren färben
+V(rg1)[V(rg1)$sector == 1]$color <- "blue" #Film
+V(rg1)[V(rg1)$sector == 2]$color <- "green" #Serie
+V(rg1)[V(rg1)$sector == 3]$color <- "pink" #Werbung
+V(rg1)[V(rg1)$sector == 5]$color <- "grey" #Musik
+V(rg1)[V(rg1)$sector == 6]$color <- "white" #Sonstiges
+ 
+#Visualisierung
+plot(rg1,
+ 	asp=0,
+ 	main="Ego-Netzwerk Rupert Grint",
+ 	layout=layout_with_kk,
+ 	vertex.frame.color="black",
+ 	vertex.label.color="black",
+ 	edge.color="black",
+ 	vertex.label.cex=1,
+ 	vertex.size=7,
+ 	vertex.label=V(rg1)$names,
+ 	sub="Projekte und Verbindungen
+ 	blau=Film, grün=Serie, grau=Musik"
+)
+```
+
+```{r Ego-Netzwerk nach Genre Emma Watson}
+ #degree
+degree(hp, V(hp)$name=="Emma (Charlotte Duerre) Watson")
+#24
+
+#Ego Netzwerk erstellen
+ew<- make_ego_graph(hp, order = 1, nodes = V(hp)$name == "Emma (Charlotte Duerre) Watson", mode ="all")
+ 
+ew
+ 
+ew1 <- ew[[1]]
+ew1
+
+#Genres färben
+V(ew1)[V(ew1)$genre == 1]$color <- "lightblue" #Action
+V(ew1)[V(ew1)$genre == 3]$color <- "lightgreen" #Thriller
+V(ew1)[V(ew1)$genre == 4]$color <- "purple" #Horror
+V(ew1)[V(ew1)$genre == 2]$color <- "pink" #Drama
+V(ew1)[V(ew1)$genre == 6]$color <- "brown" #Komödie
+V(ew1)[V(ew1)$genre == 7]$color <- "orange" #Doku
+V(ew1)[V(ew1)$genre == 8]$color <- "yellow" #Animation
+V(ew1)[V(ew1)$genre == 9]$color <- "white" #Sonstiges
+ 
+#Attribute festlegen
+V(ew1)[V(ew1)$type == 1]$shape <- "circle" #Person
+V(ew1)[V(ew1)$type == 2]$shape <- "square" #Organisation
+
+
+#Visualisierung
+plot(ew1,
+ 	asp=0,
+ 	main="Ego-Netzwerk Emma Watson",
+ 	layout=layout_with_kk,
+ 	vertex.frame.color="black",
+ 	vertex.label.color="black",
+ 	edge.color="black",
+ 	vertex.label.cex=1,
+ 	vertex.size=7,
+ 	vertex.label=V(ew1)$names,
+ 	sub="Projekte nach Genre
+ 	hellblau=Action, hellgrün=Thriller, lila=Horror,
+ 	pink=Drama, braun=Komödie,
+ 	gelb=Animation, weiß=Sonstiges")
+
+```
+
+```{r Ego-Netzwerk nach Projekte und Verbindungen Emma Watson}
+ #Attribute festlegen
+V(ew1)[V(ew1)$type == 1]$shape <- "circle" #Film
+V(ew1)[V(ew1)$type == 2]$shape <- "square" #Serie
+
+#Sektoren färben
+V(ew1)[V(ew1)$sector == 1]$color <- "blue" #Film
+V(ew1)[V(ew1)$sector == 2]$color <- "green" #Serie
+V(ew1)[V(ew1)$sector == 3]$color <- "pink" #Werbung
+V(ew1)[V(ew1)$sector == 5]$color <- "grey" #Musik
+V(ew1)[V(ew1)$sector == 6]$color <- "white" #Sonstiges
+ 
+#Visualisierung
+plot(ew1,
+ 	asp=0,
+ 	main="Ego-Netzwerk Emma Watson",
+ 	layout=layout_with_kk,
+ 	edge.arrow.size=.3,
+ 	vertex.frame.color="black",
+ 	vertex.label.color="black",
+ 	edge.color="black",
+ 	vertex.label.cex=1,
+ 	vertex.size=7,
+ 	vertex.label=V(ew1)$names,
+ 	sub="Projekte und Verbindungen
+ 	blau=Film, grün=Serie, pink=Werbung, grau=Musik, weiß=Sonstiges"
+)
+
+```
+
+
+
+
