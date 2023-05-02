@@ -83,4 +83,29 @@ Meilenstein 4: Gemeinsame Fehleranalyse + Netzwerkerstellung + Abgabe
 
 Wer? alle
 
-# 
+# Nach Abgabe Datenstz:
+Aufteilung zwischen Präsentation/Visualisierungen, Forschungsbericht und Edit Artikel
+- Präsentation/Visualisierung via Flourish, Clustern etc.
+- Forschungsbericht: Struktur und Aufbau + erste Interpretationen und Literatur
+- Edit Artikel: Interviewpartner_innen anschreiben, Interview führen
+
+Präsentation/Visualisierungen: Jonas, Rebecca, Sara
+Forschungsbericht: Finn, Nina
+Edit Artikel: Louisa 
+
+# bis 23.04.2023
+Präsentation fertig
+-> Louisa und Jonas halten Präsentation
+
+Visualisierungen in Forschungsbericht einfügen
+-> Jonas
+
+Interpretationen nach Visualisierungen anpassen
+-> Sara, Rebecca, Finn, Nina
+
+# 24.04.2023
+Interview mit Castingdirektorin
+
+# bis 01.05.2023
+Fertigstellung Forschungsbericht
+
