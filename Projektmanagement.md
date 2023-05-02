@@ -83,7 +83,7 @@ Meilenstein 4: Gemeinsame Fehleranalyse + Netzwerkerstellung + Abgabe
 
 Wer? alle
 
-# Nach Abgabe Datenstz:
+# Nach Abgabe Datensatz:
 Aufteilung zwischen Präsentation/Visualisierungen, Forschungsbericht und Edit Artikel
 - Präsentation/Visualisierung via Flourish, Clustern etc.
 - Forschungsbericht: Struktur und Aufbau + erste Interpretationen und Literatur
